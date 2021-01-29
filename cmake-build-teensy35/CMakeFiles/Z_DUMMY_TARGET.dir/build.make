@@ -42,10 +42,10 @@ RM = "D:\clion\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\Doggo
+CMAKE_SOURCE_DIR = D:\github\doggo_modify
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\Doggo\cmake-build-teensy35
+CMAKE_BINARY_DIR = D:\github\doggo_modify\cmake-build-teensy35
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Z_DUMMY_TARGET.dir/depend.make
@@ -58,1134 +58,1134 @@ include CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/arm/chcore_v6m.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/arm/chcore_v6m.c.obj: ../lib/ChRt/extra/src_org/arm/chcore_v6m.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/arm/chcore_v6m.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\arm\chcore_v6m.c.obj   -c D:\Doggo\lib\ChRt\extra\src_org\arm\chcore_v6m.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/arm/chcore_v6m.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\arm\chcore_v6m.c.obj   -c D:\github\doggo_modify\lib\ChRt\extra\src_org\arm\chcore_v6m.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/arm/chcore_v6m.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/arm/chcore_v6m.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\extra\src_org\arm\chcore_v6m.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\arm\chcore_v6m.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\extra\src_org\arm\chcore_v6m.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\arm\chcore_v6m.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/arm/chcore_v6m.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/arm/chcore_v6m.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\extra\src_org\arm\chcore_v6m.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\arm\chcore_v6m.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\extra\src_org\arm\chcore_v6m.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\arm\chcore_v6m.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/arm/chcore_v7m.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/arm/chcore_v7m.c.obj: ../lib/ChRt/extra/src_org/arm/chcore_v7m.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/arm/chcore_v7m.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\arm\chcore_v7m.c.obj   -c D:\Doggo\lib\ChRt\extra\src_org\arm\chcore_v7m.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/arm/chcore_v7m.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\arm\chcore_v7m.c.obj   -c D:\github\doggo_modify\lib\ChRt\extra\src_org\arm\chcore_v7m.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/arm/chcore_v7m.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/arm/chcore_v7m.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\extra\src_org\arm\chcore_v7m.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\arm\chcore_v7m.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\extra\src_org\arm\chcore_v7m.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\arm\chcore_v7m.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/arm/chcore_v7m.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/arm/chcore_v7m.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\extra\src_org\arm\chcore_v7m.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\arm\chcore_v7m.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\extra\src_org\arm\chcore_v7m.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\arm\chcore_v7m.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chcond.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chcond.c.obj: ../lib/ChRt/extra/src_org/rt/chcond.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chcond.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chcond.c.obj   -c D:\Doggo\lib\ChRt\extra\src_org\rt\chcond.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chcond.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chcond.c.obj   -c D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chcond.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chcond.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chcond.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\extra\src_org\rt\chcond.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chcond.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chcond.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chcond.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chcond.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chcond.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\extra\src_org\rt\chcond.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chcond.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chcond.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chcond.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chdebug.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chdebug.c.obj: ../lib/ChRt/extra/src_org/rt/chdebug.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chdebug.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chdebug.c.obj   -c D:\Doggo\lib\ChRt\extra\src_org\rt\chdebug.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chdebug.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chdebug.c.obj   -c D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chdebug.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chdebug.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chdebug.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\extra\src_org\rt\chdebug.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chdebug.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chdebug.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chdebug.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chdebug.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chdebug.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\extra\src_org\rt\chdebug.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chdebug.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chdebug.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chdebug.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chdynamic.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chdynamic.c.obj: ../lib/ChRt/extra/src_org/rt/chdynamic.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chdynamic.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chdynamic.c.obj   -c D:\Doggo\lib\ChRt\extra\src_org\rt\chdynamic.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chdynamic.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chdynamic.c.obj   -c D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chdynamic.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chdynamic.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chdynamic.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\extra\src_org\rt\chdynamic.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chdynamic.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chdynamic.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chdynamic.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chdynamic.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chdynamic.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\extra\src_org\rt\chdynamic.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chdynamic.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chdynamic.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chdynamic.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chevents.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chevents.c.obj: ../lib/ChRt/extra/src_org/rt/chevents.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chevents.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chevents.c.obj   -c D:\Doggo\lib\ChRt\extra\src_org\rt\chevents.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chevents.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chevents.c.obj   -c D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chevents.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chevents.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chevents.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\extra\src_org\rt\chevents.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chevents.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chevents.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chevents.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chevents.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chevents.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\extra\src_org\rt\chevents.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chevents.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chevents.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chevents.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chheap.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chheap.c.obj: ../lib/ChRt/extra/src_org/rt/chheap.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chheap.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chheap.c.obj   -c D:\Doggo\lib\ChRt\extra\src_org\rt\chheap.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chheap.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chheap.c.obj   -c D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chheap.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chheap.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chheap.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\extra\src_org\rt\chheap.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chheap.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chheap.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chheap.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chheap.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chheap.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\extra\src_org\rt\chheap.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chheap.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chheap.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chheap.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmboxes.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmboxes.c.obj: ../lib/ChRt/extra/src_org/rt/chmboxes.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmboxes.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmboxes.c.obj   -c D:\Doggo\lib\ChRt\extra\src_org\rt\chmboxes.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmboxes.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmboxes.c.obj   -c D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chmboxes.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmboxes.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmboxes.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\extra\src_org\rt\chmboxes.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmboxes.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chmboxes.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmboxes.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmboxes.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmboxes.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\extra\src_org\rt\chmboxes.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmboxes.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chmboxes.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmboxes.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmemcore.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmemcore.c.obj: ../lib/ChRt/extra/src_org/rt/chmemcore.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmemcore.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmemcore.c.obj   -c D:\Doggo\lib\ChRt\extra\src_org\rt\chmemcore.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmemcore.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmemcore.c.obj   -c D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chmemcore.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmemcore.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmemcore.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\extra\src_org\rt\chmemcore.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmemcore.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chmemcore.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmemcore.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmemcore.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmemcore.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\extra\src_org\rt\chmemcore.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmemcore.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chmemcore.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmemcore.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmempools.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmempools.c.obj: ../lib/ChRt/extra/src_org/rt/chmempools.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmempools.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmempools.c.obj   -c D:\Doggo\lib\ChRt\extra\src_org\rt\chmempools.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmempools.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmempools.c.obj   -c D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chmempools.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmempools.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmempools.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\extra\src_org\rt\chmempools.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmempools.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chmempools.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmempools.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmempools.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmempools.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\extra\src_org\rt\chmempools.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmempools.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chmempools.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmempools.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmsg.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmsg.c.obj: ../lib/ChRt/extra/src_org/rt/chmsg.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmsg.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmsg.c.obj   -c D:\Doggo\lib\ChRt\extra\src_org\rt\chmsg.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmsg.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmsg.c.obj   -c D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chmsg.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmsg.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmsg.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\extra\src_org\rt\chmsg.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmsg.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chmsg.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmsg.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmsg.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmsg.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\extra\src_org\rt\chmsg.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmsg.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chmsg.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmsg.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmtx.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmtx.c.obj: ../lib/ChRt/extra/src_org/rt/chmtx.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmtx.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmtx.c.obj   -c D:\Doggo\lib\ChRt\extra\src_org\rt\chmtx.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmtx.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmtx.c.obj   -c D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chmtx.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmtx.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmtx.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\extra\src_org\rt\chmtx.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmtx.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chmtx.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmtx.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmtx.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chmtx.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\extra\src_org\rt\chmtx.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmtx.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chmtx.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chmtx.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chregistry.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chregistry.c.obj: ../lib/ChRt/extra/src_org/rt/chregistry.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chregistry.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chregistry.c.obj   -c D:\Doggo\lib\ChRt\extra\src_org\rt\chregistry.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chregistry.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chregistry.c.obj   -c D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chregistry.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chregistry.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chregistry.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\extra\src_org\rt\chregistry.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chregistry.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chregistry.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chregistry.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chregistry.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chregistry.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\extra\src_org\rt\chregistry.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chregistry.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chregistry.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chregistry.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chschd.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chschd.c.obj: ../lib/ChRt/extra/src_org/rt/chschd.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chschd.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chschd.c.obj   -c D:\Doggo\lib\ChRt\extra\src_org\rt\chschd.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chschd.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chschd.c.obj   -c D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chschd.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chschd.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chschd.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\extra\src_org\rt\chschd.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chschd.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chschd.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chschd.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chschd.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chschd.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\extra\src_org\rt\chschd.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chschd.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chschd.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chschd.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chsem.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chsem.c.obj: ../lib/ChRt/extra/src_org/rt/chsem.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chsem.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chsem.c.obj   -c D:\Doggo\lib\ChRt\extra\src_org\rt\chsem.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chsem.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chsem.c.obj   -c D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chsem.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chsem.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chsem.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\extra\src_org\rt\chsem.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chsem.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chsem.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chsem.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chsem.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chsem.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\extra\src_org\rt\chsem.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chsem.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chsem.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chsem.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chstats.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chstats.c.obj: ../lib/ChRt/extra/src_org/rt/chstats.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chstats.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chstats.c.obj   -c D:\Doggo\lib\ChRt\extra\src_org\rt\chstats.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chstats.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chstats.c.obj   -c D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chstats.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chstats.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chstats.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\extra\src_org\rt\chstats.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chstats.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chstats.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chstats.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chstats.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chstats.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\extra\src_org\rt\chstats.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chstats.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chstats.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chstats.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chsys.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chsys.c.obj: ../lib/ChRt/extra/src_org/rt/chsys.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chsys.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chsys.c.obj   -c D:\Doggo\lib\ChRt\extra\src_org\rt\chsys.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chsys.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chsys.c.obj   -c D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chsys.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chsys.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chsys.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\extra\src_org\rt\chsys.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chsys.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chsys.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chsys.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chsys.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chsys.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\extra\src_org\rt\chsys.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chsys.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chsys.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chsys.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chthreads.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chthreads.c.obj: ../lib/ChRt/extra/src_org/rt/chthreads.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chthreads.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chthreads.c.obj   -c D:\Doggo\lib\ChRt\extra\src_org\rt\chthreads.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chthreads.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chthreads.c.obj   -c D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chthreads.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chthreads.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chthreads.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\extra\src_org\rt\chthreads.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chthreads.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chthreads.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chthreads.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chthreads.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chthreads.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\extra\src_org\rt\chthreads.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chthreads.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chthreads.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chthreads.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chtm.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chtm.c.obj: ../lib/ChRt/extra/src_org/rt/chtm.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chtm.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chtm.c.obj   -c D:\Doggo\lib\ChRt\extra\src_org\rt\chtm.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chtm.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chtm.c.obj   -c D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chtm.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chtm.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chtm.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\extra\src_org\rt\chtm.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chtm.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chtm.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chtm.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chtm.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chtm.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\extra\src_org\rt\chtm.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chtm.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chtm.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chtm.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chtrace.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chtrace.c.obj: ../lib/ChRt/extra/src_org/rt/chtrace.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chtrace.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chtrace.c.obj   -c D:\Doggo\lib\ChRt\extra\src_org\rt\chtrace.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chtrace.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chtrace.c.obj   -c D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chtrace.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chtrace.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chtrace.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\extra\src_org\rt\chtrace.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chtrace.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chtrace.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chtrace.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chtrace.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chtrace.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\extra\src_org\rt\chtrace.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chtrace.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chtrace.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chtrace.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chvt.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chvt.c.obj: ../lib/ChRt/extra/src_org/rt/chvt.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chvt.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chvt.c.obj   -c D:\Doggo\lib\ChRt\extra\src_org\rt\chvt.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chvt.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chvt.c.obj   -c D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chvt.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chvt.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chvt.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\extra\src_org\rt\chvt.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chvt.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chvt.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chvt.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chvt.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/extra/src_org/rt/chvt.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\extra\src_org\rt\chvt.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chvt.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\extra\src_org\rt\chvt.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\extra\src_org\rt\chvt.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChAvrMinSerial.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChAvrMinSerial.cpp.obj: ../lib/ChRt/src/ChAvrMinSerial.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChAvrMinSerial.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\ChAvrMinSerial.cpp.obj -c D:\Doggo\lib\ChRt\src\ChAvrMinSerial.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChAvrMinSerial.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\ChAvrMinSerial.cpp.obj -c D:\github\doggo_modify\lib\ChRt\src\ChAvrMinSerial.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChAvrMinSerial.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChAvrMinSerial.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\ChRt\src\ChAvrMinSerial.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\ChAvrMinSerial.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\ChAvrMinSerial.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\ChAvrMinSerial.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChAvrMinSerial.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChAvrMinSerial.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\ChRt\src\ChAvrMinSerial.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\ChAvrMinSerial.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\ChAvrMinSerial.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\ChAvrMinSerial.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChRt.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChRt.c.obj: ../lib/ChRt/src/ChRt.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChRt.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\ChRt.c.obj   -c D:\Doggo\lib\ChRt\src\ChRt.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChRt.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\ChRt.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\ChRt.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChRt.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChRt.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\ChRt.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\ChRt.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\ChRt.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\ChRt.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChRt.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChRt.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\ChRt.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\ChRt.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\ChRt.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\ChRt.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChRt.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChRt.cpp.obj: ../lib/ChRt/src/ChRt.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChRt.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\ChRt.cpp.obj -c D:\Doggo\lib\ChRt\src\ChRt.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChRt.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\ChRt.cpp.obj -c D:\github\doggo_modify\lib\ChRt\src\ChRt.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChRt.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChRt.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\ChRt\src\ChRt.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\ChRt.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\ChRt.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\ChRt.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChRt.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/ChRt.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\ChRt\src\ChRt.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\ChRt.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\ChRt.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\ChRt.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v6m.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v6m.c.obj: ../lib/ChRt/src/arm/chcore_v6m.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v6m.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\arm\chcore_v6m.c.obj   -c D:\Doggo\lib\ChRt\src\arm\chcore_v6m.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v6m.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\arm\chcore_v6m.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\arm\chcore_v6m.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v6m.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v6m.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\arm\chcore_v6m.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\arm\chcore_v6m.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\arm\chcore_v6m.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\arm\chcore_v6m.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v6m.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v6m.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\arm\chcore_v6m.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\arm\chcore_v6m.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\arm\chcore_v6m.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\arm\chcore_v6m.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v7m.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v7m.c.obj: ../lib/ChRt/src/arm/chcore_v7m.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v7m.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\arm\chcore_v7m.c.obj   -c D:\Doggo\lib\ChRt\src\arm\chcore_v7m.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v7m.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\arm\chcore_v7m.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\arm\chcore_v7m.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v7m.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v7m.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\arm\chcore_v7m.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\arm\chcore_v7m.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\arm\chcore_v7m.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\arm\chcore_v7m.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v7m.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v7m.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\arm\chcore_v7m.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\arm\chcore_v7m.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\arm\chcore_v7m.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\arm\chcore_v7m.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v7m_asm.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v7m_asm.c.obj: ../lib/ChRt/src/arm/chcore_v7m_asm.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v7m_asm.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\arm\chcore_v7m_asm.c.obj   -c D:\Doggo\lib\ChRt\src\arm\chcore_v7m_asm.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v7m_asm.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\arm\chcore_v7m_asm.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\arm\chcore_v7m_asm.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v7m_asm.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v7m_asm.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\arm\chcore_v7m_asm.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\arm\chcore_v7m_asm.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\arm\chcore_v7m_asm.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\arm\chcore_v7m_asm.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v7m_asm.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/arm/chcore_v7m_asm.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\arm\chcore_v7m_asm.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\arm\chcore_v7m_asm.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\arm\chcore_v7m_asm.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\arm\chcore_v7m_asm.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/avr/chcore_avr.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/avr/chcore_avr.c.obj: ../lib/ChRt/src/avr/chcore_avr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/avr/chcore_avr.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\avr\chcore_avr.c.obj   -c D:\Doggo\lib\ChRt\src\avr\chcore_avr.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/avr/chcore_avr.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\avr\chcore_avr.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\avr\chcore_avr.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/avr/chcore_avr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/avr/chcore_avr.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\avr\chcore_avr.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\avr\chcore_avr.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\avr\chcore_avr.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\avr\chcore_avr.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/avr/chcore_avr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/avr/chcore_avr.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\avr\chcore_avr.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\avr\chcore_avr.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\avr\chcore_avr.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\avr\chcore_avr.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/avr/st_lld_avr.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/avr/st_lld_avr.c.obj: ../lib/ChRt/src/avr/st_lld_avr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/avr/st_lld_avr.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\avr\st_lld_avr.c.obj   -c D:\Doggo\lib\ChRt\src\avr\st_lld_avr.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/avr/st_lld_avr.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\avr\st_lld_avr.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\avr\st_lld_avr.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/avr/st_lld_avr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/avr/st_lld_avr.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\avr\st_lld_avr.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\avr\st_lld_avr.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\avr\st_lld_avr.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\avr\st_lld_avr.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/avr/st_lld_avr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/avr/st_lld_avr.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\avr\st_lld_avr.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\avr\st_lld_avr.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\avr\st_lld_avr.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\avr\st_lld_avr.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chcond.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chcond.c.obj: ../lib/ChRt/src/rt/chcond.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chcond.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chcond.c.obj   -c D:\Doggo\lib\ChRt\src\rt\chcond.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chcond.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chcond.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\rt\chcond.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chcond.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chcond.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\rt\chcond.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chcond.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\rt\chcond.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chcond.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chcond.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chcond.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\rt\chcond.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chcond.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\rt\chcond.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chcond.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chdebug.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chdebug.c.obj: ../lib/ChRt/src/rt/chdebug.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chdebug.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chdebug.c.obj   -c D:\Doggo\lib\ChRt\src\rt\chdebug.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chdebug.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chdebug.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\rt\chdebug.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chdebug.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chdebug.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\rt\chdebug.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chdebug.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\rt\chdebug.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chdebug.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chdebug.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chdebug.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\rt\chdebug.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chdebug.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\rt\chdebug.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chdebug.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chdynamic.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chdynamic.c.obj: ../lib/ChRt/src/rt/chdynamic.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chdynamic.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chdynamic.c.obj   -c D:\Doggo\lib\ChRt\src\rt\chdynamic.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chdynamic.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chdynamic.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\rt\chdynamic.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chdynamic.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chdynamic.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\rt\chdynamic.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chdynamic.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\rt\chdynamic.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chdynamic.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chdynamic.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chdynamic.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\rt\chdynamic.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chdynamic.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\rt\chdynamic.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chdynamic.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chevents.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chevents.c.obj: ../lib/ChRt/src/rt/chevents.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chevents.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chevents.c.obj   -c D:\Doggo\lib\ChRt\src\rt\chevents.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chevents.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chevents.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\rt\chevents.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chevents.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chevents.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\rt\chevents.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chevents.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\rt\chevents.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chevents.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chevents.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chevents.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\rt\chevents.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chevents.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\rt\chevents.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chevents.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chheap.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chheap.c.obj: ../lib/ChRt/src/rt/chheap.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chheap.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chheap.c.obj   -c D:\Doggo\lib\ChRt\src\rt\chheap.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chheap.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chheap.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\rt\chheap.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chheap.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chheap.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\rt\chheap.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chheap.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\rt\chheap.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chheap.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chheap.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chheap.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\rt\chheap.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chheap.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\rt\chheap.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chheap.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmboxes.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmboxes.c.obj: ../lib/ChRt/src/rt/chmboxes.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmboxes.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmboxes.c.obj   -c D:\Doggo\lib\ChRt\src\rt\chmboxes.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmboxes.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmboxes.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\rt\chmboxes.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmboxes.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmboxes.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\rt\chmboxes.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmboxes.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\rt\chmboxes.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmboxes.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmboxes.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmboxes.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\rt\chmboxes.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmboxes.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\rt\chmboxes.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmboxes.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmemcore.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmemcore.c.obj: ../lib/ChRt/src/rt/chmemcore.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmemcore.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmemcore.c.obj   -c D:\Doggo\lib\ChRt\src\rt\chmemcore.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmemcore.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmemcore.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\rt\chmemcore.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmemcore.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmemcore.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\rt\chmemcore.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmemcore.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\rt\chmemcore.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmemcore.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmemcore.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmemcore.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\rt\chmemcore.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmemcore.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\rt\chmemcore.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmemcore.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmempools.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmempools.c.obj: ../lib/ChRt/src/rt/chmempools.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmempools.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmempools.c.obj   -c D:\Doggo\lib\ChRt\src\rt\chmempools.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmempools.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmempools.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\rt\chmempools.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmempools.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmempools.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\rt\chmempools.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmempools.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\rt\chmempools.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmempools.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmempools.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmempools.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\rt\chmempools.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmempools.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\rt\chmempools.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmempools.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmsg.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmsg.c.obj: ../lib/ChRt/src/rt/chmsg.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmsg.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmsg.c.obj   -c D:\Doggo\lib\ChRt\src\rt\chmsg.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmsg.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmsg.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\rt\chmsg.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmsg.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmsg.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\rt\chmsg.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmsg.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\rt\chmsg.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmsg.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmsg.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmsg.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\rt\chmsg.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmsg.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\rt\chmsg.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmsg.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmtx.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmtx.c.obj: ../lib/ChRt/src/rt/chmtx.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmtx.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmtx.c.obj   -c D:\Doggo\lib\ChRt\src\rt\chmtx.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmtx.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmtx.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\rt\chmtx.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmtx.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmtx.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\rt\chmtx.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmtx.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\rt\chmtx.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmtx.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmtx.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chmtx.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\rt\chmtx.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmtx.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\rt\chmtx.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chmtx.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chregistry.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chregistry.c.obj: ../lib/ChRt/src/rt/chregistry.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chregistry.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chregistry.c.obj   -c D:\Doggo\lib\ChRt\src\rt\chregistry.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chregistry.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chregistry.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\rt\chregistry.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chregistry.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chregistry.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\rt\chregistry.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chregistry.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\rt\chregistry.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chregistry.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chregistry.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chregistry.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\rt\chregistry.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chregistry.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\rt\chregistry.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chregistry.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chschd.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chschd.c.obj: ../lib/ChRt/src/rt/chschd.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chschd.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chschd.c.obj   -c D:\Doggo\lib\ChRt\src\rt\chschd.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chschd.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chschd.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\rt\chschd.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chschd.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chschd.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\rt\chschd.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chschd.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\rt\chschd.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chschd.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chschd.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chschd.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\rt\chschd.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chschd.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\rt\chschd.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chschd.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chsem.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chsem.c.obj: ../lib/ChRt/src/rt/chsem.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chsem.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chsem.c.obj   -c D:\Doggo\lib\ChRt\src\rt\chsem.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chsem.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chsem.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\rt\chsem.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chsem.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chsem.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\rt\chsem.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chsem.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\rt\chsem.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chsem.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chsem.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chsem.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\rt\chsem.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chsem.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\rt\chsem.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chsem.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chstats.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chstats.c.obj: ../lib/ChRt/src/rt/chstats.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chstats.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chstats.c.obj   -c D:\Doggo\lib\ChRt\src\rt\chstats.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chstats.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chstats.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\rt\chstats.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chstats.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chstats.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\rt\chstats.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chstats.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\rt\chstats.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chstats.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chstats.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chstats.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\rt\chstats.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chstats.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\rt\chstats.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chstats.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chsys.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chsys.c.obj: ../lib/ChRt/src/rt/chsys.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chsys.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chsys.c.obj   -c D:\Doggo\lib\ChRt\src\rt\chsys.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chsys.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chsys.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\rt\chsys.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chsys.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chsys.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\rt\chsys.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chsys.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\rt\chsys.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chsys.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chsys.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chsys.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\rt\chsys.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chsys.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\rt\chsys.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chsys.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chthreads.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chthreads.c.obj: ../lib/ChRt/src/rt/chthreads.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chthreads.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chthreads.c.obj   -c D:\Doggo\lib\ChRt\src\rt\chthreads.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chthreads.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chthreads.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\rt\chthreads.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chthreads.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chthreads.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\rt\chthreads.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chthreads.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\rt\chthreads.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chthreads.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chthreads.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chthreads.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\rt\chthreads.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chthreads.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\rt\chthreads.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chthreads.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chtm.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chtm.c.obj: ../lib/ChRt/src/rt/chtm.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chtm.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chtm.c.obj   -c D:\Doggo\lib\ChRt\src\rt\chtm.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chtm.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chtm.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\rt\chtm.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chtm.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chtm.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\rt\chtm.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chtm.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\rt\chtm.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chtm.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chtm.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chtm.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\rt\chtm.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chtm.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\rt\chtm.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chtm.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chtrace.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chtrace.c.obj: ../lib/ChRt/src/rt/chtrace.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chtrace.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chtrace.c.obj   -c D:\Doggo\lib\ChRt\src\rt\chtrace.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chtrace.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chtrace.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\rt\chtrace.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chtrace.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chtrace.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\rt\chtrace.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chtrace.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\rt\chtrace.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chtrace.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chtrace.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chtrace.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\rt\chtrace.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chtrace.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\rt\chtrace.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chtrace.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chvt.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chvt.c.obj: ../lib/ChRt/src/rt/chvt.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chvt.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chvt.c.obj   -c D:\Doggo\lib\ChRt\src\rt\chvt.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chvt.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chvt.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\rt\chvt.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chvt.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chvt.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\rt\chvt.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chvt.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\rt\chvt.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chvt.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chvt.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/rt/chvt.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\rt\chvt.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chvt.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\rt\chvt.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\rt\chvt.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/sam3x/st_lld_sam3x.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/sam3x/st_lld_sam3x.c.obj: ../lib/ChRt/src/sam3x/st_lld_sam3x.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/sam3x/st_lld_sam3x.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\sam3x\st_lld_sam3x.c.obj   -c D:\Doggo\lib\ChRt\src\sam3x\st_lld_sam3x.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/sam3x/st_lld_sam3x.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\sam3x\st_lld_sam3x.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\sam3x\st_lld_sam3x.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/sam3x/st_lld_sam3x.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/sam3x/st_lld_sam3x.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\sam3x\st_lld_sam3x.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\sam3x\st_lld_sam3x.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\sam3x\st_lld_sam3x.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\sam3x\st_lld_sam3x.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/sam3x/st_lld_sam3x.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/sam3x/st_lld_sam3x.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\sam3x\st_lld_sam3x.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\sam3x\st_lld_sam3x.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\sam3x\st_lld_sam3x.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\sam3x\st_lld_sam3x.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/samd/st_lld_samd.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/samd/st_lld_samd.c.obj: ../lib/ChRt/src/samd/st_lld_samd.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/samd/st_lld_samd.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\samd\st_lld_samd.c.obj   -c D:\Doggo\lib\ChRt\src\samd\st_lld_samd.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/samd/st_lld_samd.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\samd\st_lld_samd.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\samd\st_lld_samd.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/samd/st_lld_samd.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/samd/st_lld_samd.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\samd\st_lld_samd.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\samd\st_lld_samd.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\samd\st_lld_samd.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\samd\st_lld_samd.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/samd/st_lld_samd.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/samd/st_lld_samd.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\samd\st_lld_samd.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\samd\st_lld_samd.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\samd\st_lld_samd.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\samd\st_lld_samd.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/teensy3/st_lld_teenxy3.c.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/teensy3/st_lld_teenxy3.c.obj: ../lib/ChRt/src/teensy3/st_lld_teenxy3.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/teensy3/st_lld_teenxy3.c.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\teensy3\st_lld_teenxy3.c.obj   -c D:\Doggo\lib\ChRt\src\teensy3\st_lld_teenxy3.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/teensy3/st_lld_teenxy3.c.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\teensy3\st_lld_teenxy3.c.obj   -c D:\github\doggo_modify\lib\ChRt\src\teensy3\st_lld_teenxy3.c
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/teensy3/st_lld_teenxy3.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/teensy3/st_lld_teenxy3.c.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Doggo\lib\ChRt\src\teensy3\st_lld_teenxy3.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\teensy3\st_lld_teenxy3.c.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\github\doggo_modify\lib\ChRt\src\teensy3\st_lld_teenxy3.c > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\teensy3\st_lld_teenxy3.c.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/teensy3/st_lld_teenxy3.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ChRt/src/teensy3/st_lld_teenxy3.c.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Doggo\lib\ChRt\src\teensy3\st_lld_teenxy3.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\teensy3\st_lld_teenxy3.c.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\github\doggo_modify\lib\ChRt\src\teensy3\st_lld_teenxy3.c -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ChRt\src\teensy3\st_lld_teenxy3.c.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ODriveArduino/ODriveArduino.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ODriveArduino/ODriveArduino.cpp.obj: ../lib/ODriveArduino/ODriveArduino.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ODriveArduino/ODriveArduino.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ODriveArduino\ODriveArduino.cpp.obj -c D:\Doggo\lib\ODriveArduino\ODriveArduino.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/ODriveArduino/ODriveArduino.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ODriveArduino\ODriveArduino.cpp.obj -c D:\github\doggo_modify\lib\ODriveArduino\ODriveArduino.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ODriveArduino/ODriveArduino.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/ODriveArduino/ODriveArduino.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\ODriveArduino\ODriveArduino.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ODriveArduino\ODriveArduino.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\ODriveArduino\ODriveArduino.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\ODriveArduino\ODriveArduino.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/ODriveArduino/ODriveArduino.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/ODriveArduino/ODriveArduino.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\ODriveArduino\ODriveArduino.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ODriveArduino\ODriveArduino.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\ODriveArduino\ODriveArduino.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\ODriveArduino\ODriveArduino.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLogger/UserFunctions.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLogger/UserFunctions.cpp.obj: ../lib/SdFat/examples/LowLatencyLogger/UserFunctions.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLogger/UserFunctions.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\examples\LowLatencyLogger\UserFunctions.cpp.obj -c D:\Doggo\lib\SdFat\examples\LowLatencyLogger\UserFunctions.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLogger/UserFunctions.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\examples\LowLatencyLogger\UserFunctions.cpp.obj -c D:\github\doggo_modify\lib\SdFat\examples\LowLatencyLogger\UserFunctions.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLogger/UserFunctions.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLogger/UserFunctions.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\examples\LowLatencyLogger\UserFunctions.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\examples\LowLatencyLogger\UserFunctions.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\examples\LowLatencyLogger\UserFunctions.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\examples\LowLatencyLogger\UserFunctions.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLogger/UserFunctions.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLogger/UserFunctions.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\examples\LowLatencyLogger\UserFunctions.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\examples\LowLatencyLogger\UserFunctions.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\examples\LowLatencyLogger\UserFunctions.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\examples\LowLatencyLogger\UserFunctions.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLoggerADXL345/UserFunctions.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLoggerADXL345/UserFunctions.cpp.obj: ../lib/SdFat/examples/LowLatencyLoggerADXL345/UserFunctions.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLoggerADXL345/UserFunctions.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\examples\LowLatencyLoggerADXL345\UserFunctions.cpp.obj -c D:\Doggo\lib\SdFat\examples\LowLatencyLoggerADXL345\UserFunctions.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLoggerADXL345/UserFunctions.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\examples\LowLatencyLoggerADXL345\UserFunctions.cpp.obj -c D:\github\doggo_modify\lib\SdFat\examples\LowLatencyLoggerADXL345\UserFunctions.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLoggerADXL345/UserFunctions.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLoggerADXL345/UserFunctions.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\examples\LowLatencyLoggerADXL345\UserFunctions.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\examples\LowLatencyLoggerADXL345\UserFunctions.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\examples\LowLatencyLoggerADXL345\UserFunctions.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\examples\LowLatencyLoggerADXL345\UserFunctions.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLoggerADXL345/UserFunctions.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLoggerADXL345/UserFunctions.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\examples\LowLatencyLoggerADXL345\UserFunctions.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\examples\LowLatencyLoggerADXL345\UserFunctions.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\examples\LowLatencyLoggerADXL345\UserFunctions.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\examples\LowLatencyLoggerADXL345\UserFunctions.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLoggerMPU6050/UserFunctions.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLoggerMPU6050/UserFunctions.cpp.obj: ../lib/SdFat/examples/LowLatencyLoggerMPU6050/UserFunctions.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLoggerMPU6050/UserFunctions.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\examples\LowLatencyLoggerMPU6050\UserFunctions.cpp.obj -c D:\Doggo\lib\SdFat\examples\LowLatencyLoggerMPU6050\UserFunctions.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLoggerMPU6050/UserFunctions.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\examples\LowLatencyLoggerMPU6050\UserFunctions.cpp.obj -c D:\github\doggo_modify\lib\SdFat\examples\LowLatencyLoggerMPU6050\UserFunctions.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLoggerMPU6050/UserFunctions.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLoggerMPU6050/UserFunctions.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\examples\LowLatencyLoggerMPU6050\UserFunctions.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\examples\LowLatencyLoggerMPU6050\UserFunctions.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\examples\LowLatencyLoggerMPU6050\UserFunctions.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\examples\LowLatencyLoggerMPU6050\UserFunctions.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLoggerMPU6050/UserFunctions.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/examples/LowLatencyLoggerMPU6050/UserFunctions.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\examples\LowLatencyLoggerMPU6050\UserFunctions.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\examples\LowLatencyLoggerMPU6050\UserFunctions.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\examples\LowLatencyLoggerMPU6050\UserFunctions.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\examples\LowLatencyLoggerMPU6050\UserFunctions.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/extras/AnalogBinLoggerExtras/bintocsv/bintocsv.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/extras/AnalogBinLoggerExtras/bintocsv/bintocsv.cpp.obj: ../lib/SdFat/extras/AnalogBinLoggerExtras/bintocsv/bintocsv.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/extras/AnalogBinLoggerExtras/bintocsv/bintocsv.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\extras\AnalogBinLoggerExtras\bintocsv\bintocsv.cpp.obj -c D:\Doggo\lib\SdFat\extras\AnalogBinLoggerExtras\bintocsv\bintocsv.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/extras/AnalogBinLoggerExtras/bintocsv/bintocsv.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\extras\AnalogBinLoggerExtras\bintocsv\bintocsv.cpp.obj -c D:\github\doggo_modify\lib\SdFat\extras\AnalogBinLoggerExtras\bintocsv\bintocsv.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/extras/AnalogBinLoggerExtras/bintocsv/bintocsv.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/extras/AnalogBinLoggerExtras/bintocsv/bintocsv.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\extras\AnalogBinLoggerExtras\bintocsv\bintocsv.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\extras\AnalogBinLoggerExtras\bintocsv\bintocsv.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\extras\AnalogBinLoggerExtras\bintocsv\bintocsv.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\extras\AnalogBinLoggerExtras\bintocsv\bintocsv.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/extras/AnalogBinLoggerExtras/bintocsv/bintocsv.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/extras/AnalogBinLoggerExtras/bintocsv/bintocsv.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\extras\AnalogBinLoggerExtras\bintocsv\bintocsv.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\extras\AnalogBinLoggerExtras\bintocsv\bintocsv.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\extras\AnalogBinLoggerExtras\bintocsv\bintocsv.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\extras\AnalogBinLoggerExtras\bintocsv\bintocsv.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/extras/SdFatTestSuite/SdFatTestSuite.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/extras/SdFatTestSuite/SdFatTestSuite.cpp.obj: ../lib/SdFat/extras/SdFatTestSuite/SdFatTestSuite.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/extras/SdFatTestSuite/SdFatTestSuite.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\extras\SdFatTestSuite\SdFatTestSuite.cpp.obj -c D:\Doggo\lib\SdFat\extras\SdFatTestSuite\SdFatTestSuite.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/extras/SdFatTestSuite/SdFatTestSuite.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\extras\SdFatTestSuite\SdFatTestSuite.cpp.obj -c D:\github\doggo_modify\lib\SdFat\extras\SdFatTestSuite\SdFatTestSuite.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/extras/SdFatTestSuite/SdFatTestSuite.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/extras/SdFatTestSuite/SdFatTestSuite.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\extras\SdFatTestSuite\SdFatTestSuite.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\extras\SdFatTestSuite\SdFatTestSuite.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\extras\SdFatTestSuite\SdFatTestSuite.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\extras\SdFatTestSuite\SdFatTestSuite.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/extras/SdFatTestSuite/SdFatTestSuite.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/extras/SdFatTestSuite/SdFatTestSuite.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\extras\SdFatTestSuite\SdFatTestSuite.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\extras\SdFatTestSuite\SdFatTestSuite.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\extras\SdFatTestSuite\SdFatTestSuite.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\extras\SdFatTestSuite\SdFatTestSuite.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFile.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFile.cpp.obj: ../lib/SdFat/src/FatLib/FatFile.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFile.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFile.cpp.obj -c D:\Doggo\lib\SdFat\src\FatLib\FatFile.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFile.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFile.cpp.obj -c D:\github\doggo_modify\lib\SdFat\src\FatLib\FatFile.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFile.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFile.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\src\FatLib\FatFile.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFile.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\src\FatLib\FatFile.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFile.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFile.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFile.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\src\FatLib\FatFile.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFile.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\src\FatLib\FatFile.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFile.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFileLFN.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFileLFN.cpp.obj: ../lib/SdFat/src/FatLib/FatFileLFN.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFileLFN.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFileLFN.cpp.obj -c D:\Doggo\lib\SdFat\src\FatLib\FatFileLFN.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFileLFN.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFileLFN.cpp.obj -c D:\github\doggo_modify\lib\SdFat\src\FatLib\FatFileLFN.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFileLFN.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFileLFN.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\src\FatLib\FatFileLFN.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFileLFN.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\src\FatLib\FatFileLFN.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFileLFN.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFileLFN.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFileLFN.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\src\FatLib\FatFileLFN.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFileLFN.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\src\FatLib\FatFileLFN.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFileLFN.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFilePrint.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFilePrint.cpp.obj: ../lib/SdFat/src/FatLib/FatFilePrint.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFilePrint.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFilePrint.cpp.obj -c D:\Doggo\lib\SdFat\src\FatLib\FatFilePrint.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFilePrint.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFilePrint.cpp.obj -c D:\github\doggo_modify\lib\SdFat\src\FatLib\FatFilePrint.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFilePrint.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFilePrint.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\src\FatLib\FatFilePrint.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFilePrint.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\src\FatLib\FatFilePrint.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFilePrint.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFilePrint.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFilePrint.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\src\FatLib\FatFilePrint.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFilePrint.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\src\FatLib\FatFilePrint.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFilePrint.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFileSFN.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFileSFN.cpp.obj: ../lib/SdFat/src/FatLib/FatFileSFN.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFileSFN.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFileSFN.cpp.obj -c D:\Doggo\lib\SdFat\src\FatLib\FatFileSFN.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFileSFN.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFileSFN.cpp.obj -c D:\github\doggo_modify\lib\SdFat\src\FatLib\FatFileSFN.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFileSFN.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFileSFN.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\src\FatLib\FatFileSFN.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFileSFN.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\src\FatLib\FatFileSFN.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFileSFN.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFileSFN.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatFileSFN.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\src\FatLib\FatFileSFN.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFileSFN.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\src\FatLib\FatFileSFN.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatFileSFN.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatVolume.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatVolume.cpp.obj: ../lib/SdFat/src/FatLib/FatVolume.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatVolume.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatVolume.cpp.obj -c D:\Doggo\lib\SdFat\src\FatLib\FatVolume.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatVolume.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatVolume.cpp.obj -c D:\github\doggo_modify\lib\SdFat\src\FatLib\FatVolume.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatVolume.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatVolume.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\src\FatLib\FatVolume.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatVolume.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\src\FatLib\FatVolume.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatVolume.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatVolume.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FatVolume.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\src\FatLib\FatVolume.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatVolume.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\src\FatLib\FatVolume.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FatVolume.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FmtNumber.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FmtNumber.cpp.obj: ../lib/SdFat/src/FatLib/FmtNumber.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FmtNumber.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FmtNumber.cpp.obj -c D:\Doggo\lib\SdFat\src\FatLib\FmtNumber.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FmtNumber.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FmtNumber.cpp.obj -c D:\github\doggo_modify\lib\SdFat\src\FatLib\FmtNumber.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FmtNumber.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FmtNumber.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\src\FatLib\FmtNumber.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FmtNumber.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\src\FatLib\FmtNumber.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FmtNumber.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FmtNumber.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/FmtNumber.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\src\FatLib\FmtNumber.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FmtNumber.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\src\FatLib\FmtNumber.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\FmtNumber.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/StdioStream.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/StdioStream.cpp.obj: ../lib/SdFat/src/FatLib/StdioStream.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/StdioStream.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\StdioStream.cpp.obj -c D:\Doggo\lib\SdFat\src\FatLib\StdioStream.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/StdioStream.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\StdioStream.cpp.obj -c D:\github\doggo_modify\lib\SdFat\src\FatLib\StdioStream.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/StdioStream.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/StdioStream.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\src\FatLib\StdioStream.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\StdioStream.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\src\FatLib\StdioStream.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\StdioStream.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/StdioStream.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/StdioStream.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\src\FatLib\StdioStream.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\StdioStream.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\src\FatLib\StdioStream.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\StdioStream.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/fstream.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/fstream.cpp.obj: ../lib/SdFat/src/FatLib/fstream.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/fstream.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\fstream.cpp.obj -c D:\Doggo\lib\SdFat\src\FatLib\fstream.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/fstream.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\fstream.cpp.obj -c D:\github\doggo_modify\lib\SdFat\src\FatLib\fstream.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/fstream.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/fstream.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\src\FatLib\fstream.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\fstream.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\src\FatLib\fstream.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\fstream.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/fstream.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/fstream.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\src\FatLib\fstream.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\fstream.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\src\FatLib\fstream.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\fstream.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/istream.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/istream.cpp.obj: ../lib/SdFat/src/FatLib/istream.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/istream.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\istream.cpp.obj -c D:\Doggo\lib\SdFat\src\FatLib\istream.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/istream.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\istream.cpp.obj -c D:\github\doggo_modify\lib\SdFat\src\FatLib\istream.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/istream.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/istream.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\src\FatLib\istream.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\istream.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\src\FatLib\istream.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\istream.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/istream.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/istream.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\src\FatLib\istream.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\istream.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\src\FatLib\istream.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\istream.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/ostream.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/ostream.cpp.obj: ../lib/SdFat/src/FatLib/ostream.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/ostream.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\ostream.cpp.obj -c D:\Doggo\lib\SdFat\src\FatLib\ostream.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/ostream.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\ostream.cpp.obj -c D:\github\doggo_modify\lib\SdFat\src\FatLib\ostream.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/ostream.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/ostream.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\src\FatLib\ostream.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\ostream.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\src\FatLib\ostream.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\ostream.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/ostream.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/FatLib/ostream.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\src\FatLib\ostream.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\ostream.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\src\FatLib\ostream.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\FatLib\ostream.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/MinimumSerial.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/MinimumSerial.cpp.obj: ../lib/SdFat/src/MinimumSerial.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/MinimumSerial.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\MinimumSerial.cpp.obj -c D:\Doggo\lib\SdFat\src\MinimumSerial.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/MinimumSerial.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\MinimumSerial.cpp.obj -c D:\github\doggo_modify\lib\SdFat\src\MinimumSerial.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/MinimumSerial.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/MinimumSerial.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\src\MinimumSerial.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\MinimumSerial.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\src\MinimumSerial.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\MinimumSerial.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/MinimumSerial.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/MinimumSerial.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\src\MinimumSerial.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\MinimumSerial.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\src\MinimumSerial.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\MinimumSerial.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdSpiCard.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdSpiCard.cpp.obj: ../lib/SdFat/src/SdCard/SdSpiCard.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdSpiCard.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdSpiCard.cpp.obj -c D:\Doggo\lib\SdFat\src\SdCard\SdSpiCard.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdSpiCard.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdSpiCard.cpp.obj -c D:\github\doggo_modify\lib\SdFat\src\SdCard\SdSpiCard.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdSpiCard.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdSpiCard.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\src\SdCard\SdSpiCard.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdSpiCard.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\src\SdCard\SdSpiCard.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdSpiCard.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdSpiCard.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdSpiCard.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\src\SdCard\SdSpiCard.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdSpiCard.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\src\SdCard\SdSpiCard.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdSpiCard.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdSpiCardEX.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdSpiCardEX.cpp.obj: ../lib/SdFat/src/SdCard/SdSpiCardEX.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdSpiCardEX.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdSpiCardEX.cpp.obj -c D:\Doggo\lib\SdFat\src\SdCard\SdSpiCardEX.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdSpiCardEX.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdSpiCardEX.cpp.obj -c D:\github\doggo_modify\lib\SdFat\src\SdCard\SdSpiCardEX.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdSpiCardEX.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdSpiCardEX.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\src\SdCard\SdSpiCardEX.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdSpiCardEX.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\src\SdCard\SdSpiCardEX.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdSpiCardEX.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdSpiCardEX.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdSpiCardEX.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\src\SdCard\SdSpiCardEX.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdSpiCardEX.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\src\SdCard\SdSpiCardEX.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdSpiCardEX.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdioCardEX.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdioCardEX.cpp.obj: ../lib/SdFat/src/SdCard/SdioCardEX.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdioCardEX.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdioCardEX.cpp.obj -c D:\Doggo\lib\SdFat\src\SdCard\SdioCardEX.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdioCardEX.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdioCardEX.cpp.obj -c D:\github\doggo_modify\lib\SdFat\src\SdCard\SdioCardEX.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdioCardEX.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdioCardEX.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\src\SdCard\SdioCardEX.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdioCardEX.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\src\SdCard\SdioCardEX.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdioCardEX.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdioCardEX.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdioCardEX.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\src\SdCard\SdioCardEX.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdioCardEX.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\src\SdCard\SdioCardEX.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdioCardEX.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdioTeensy.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdioTeensy.cpp.obj: ../lib/SdFat/src/SdCard/SdioTeensy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdioTeensy.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdioTeensy.cpp.obj -c D:\Doggo\lib\SdFat\src\SdCard\SdioTeensy.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdioTeensy.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdioTeensy.cpp.obj -c D:\github\doggo_modify\lib\SdFat\src\SdCard\SdioTeensy.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdioTeensy.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdioTeensy.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\src\SdCard\SdioTeensy.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdioTeensy.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\src\SdCard\SdioTeensy.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdioTeensy.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdioTeensy.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SdCard/SdioTeensy.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\src\SdCard\SdioTeensy.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdioTeensy.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\src\SdCard\SdioTeensy.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SdCard\SdioTeensy.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiESP8266.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiESP8266.cpp.obj: ../lib/SdFat/src/SpiDriver/SdSpiESP8266.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiESP8266.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiESP8266.cpp.obj -c D:\Doggo\lib\SdFat\src\SpiDriver\SdSpiESP8266.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiESP8266.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiESP8266.cpp.obj -c D:\github\doggo_modify\lib\SdFat\src\SpiDriver\SdSpiESP8266.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiESP8266.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiESP8266.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\src\SpiDriver\SdSpiESP8266.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiESP8266.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\src\SpiDriver\SdSpiESP8266.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiESP8266.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiESP8266.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiESP8266.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\src\SpiDriver\SdSpiESP8266.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiESP8266.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\src\SpiDriver\SdSpiESP8266.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiESP8266.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiSAM3X.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiSAM3X.cpp.obj: ../lib/SdFat/src/SpiDriver/SdSpiSAM3X.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiSAM3X.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiSAM3X.cpp.obj -c D:\Doggo\lib\SdFat\src\SpiDriver\SdSpiSAM3X.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiSAM3X.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiSAM3X.cpp.obj -c D:\github\doggo_modify\lib\SdFat\src\SpiDriver\SdSpiSAM3X.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiSAM3X.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiSAM3X.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\src\SpiDriver\SdSpiSAM3X.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiSAM3X.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\src\SpiDriver\SdSpiSAM3X.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiSAM3X.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiSAM3X.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiSAM3X.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\src\SpiDriver\SdSpiSAM3X.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiSAM3X.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\src\SpiDriver\SdSpiSAM3X.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiSAM3X.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiSTM32.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiSTM32.cpp.obj: ../lib/SdFat/src/SpiDriver/SdSpiSTM32.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiSTM32.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiSTM32.cpp.obj -c D:\Doggo\lib\SdFat\src\SpiDriver\SdSpiSTM32.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiSTM32.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiSTM32.cpp.obj -c D:\github\doggo_modify\lib\SdFat\src\SpiDriver\SdSpiSTM32.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiSTM32.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiSTM32.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\src\SpiDriver\SdSpiSTM32.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiSTM32.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\src\SpiDriver\SdSpiSTM32.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiSTM32.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiSTM32.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiSTM32.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\src\SpiDriver\SdSpiSTM32.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiSTM32.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\src\SpiDriver\SdSpiSTM32.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiSTM32.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiTeensy3.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiTeensy3.cpp.obj: ../lib/SdFat/src/SpiDriver/SdSpiTeensy3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiTeensy3.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiTeensy3.cpp.obj -c D:\Doggo\lib\SdFat\src\SpiDriver\SdSpiTeensy3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiTeensy3.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiTeensy3.cpp.obj -c D:\github\doggo_modify\lib\SdFat\src\SpiDriver\SdSpiTeensy3.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiTeensy3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiTeensy3.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SdFat\src\SpiDriver\SdSpiTeensy3.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiTeensy3.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SdFat\src\SpiDriver\SdSpiTeensy3.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiTeensy3.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiTeensy3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SdFat/src/SpiDriver/SdSpiTeensy3.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SdFat\src\SpiDriver\SdSpiTeensy3.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiTeensy3.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SdFat\src\SpiDriver\SdSpiTeensy3.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SdFat\src\SpiDriver\SdSpiTeensy3.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SparkFun_BNO080_Arduino_Library/src/SparkFun_BNO080_Arduino_Library.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SparkFun_BNO080_Arduino_Library/src/SparkFun_BNO080_Arduino_Library.cpp.obj: ../lib/SparkFun_BNO080_Arduino_Library/src/SparkFun_BNO080_Arduino_Library.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SparkFun_BNO080_Arduino_Library/src/SparkFun_BNO080_Arduino_Library.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SparkFun_BNO080_Arduino_Library\src\SparkFun_BNO080_Arduino_Library.cpp.obj -c D:\Doggo\lib\SparkFun_BNO080_Arduino_Library\src\SparkFun_BNO080_Arduino_Library.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/lib/SparkFun_BNO080_Arduino_Library/src/SparkFun_BNO080_Arduino_Library.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SparkFun_BNO080_Arduino_Library\src\SparkFun_BNO080_Arduino_Library.cpp.obj -c D:\github\doggo_modify\lib\SparkFun_BNO080_Arduino_Library\src\SparkFun_BNO080_Arduino_Library.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SparkFun_BNO080_Arduino_Library/src/SparkFun_BNO080_Arduino_Library.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/lib/SparkFun_BNO080_Arduino_Library/src/SparkFun_BNO080_Arduino_Library.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\lib\SparkFun_BNO080_Arduino_Library\src\SparkFun_BNO080_Arduino_Library.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SparkFun_BNO080_Arduino_Library\src\SparkFun_BNO080_Arduino_Library.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\lib\SparkFun_BNO080_Arduino_Library\src\SparkFun_BNO080_Arduino_Library.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\lib\SparkFun_BNO080_Arduino_Library\src\SparkFun_BNO080_Arduino_Library.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/lib/SparkFun_BNO080_Arduino_Library/src/SparkFun_BNO080_Arduino_Library.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/lib/SparkFun_BNO080_Arduino_Library/src/SparkFun_BNO080_Arduino_Library.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\lib\SparkFun_BNO080_Arduino_Library\src\SparkFun_BNO080_Arduino_Library.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SparkFun_BNO080_Arduino_Library\src\SparkFun_BNO080_Arduino_Library.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\lib\SparkFun_BNO080_Arduino_Library\src\SparkFun_BNO080_Arduino_Library.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\lib\SparkFun_BNO080_Arduino_Library\src\SparkFun_BNO080_Arduino_Library.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/backflip.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/src/backflip.cpp.obj: ../src/backflip.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/src/backflip.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\src\backflip.cpp.obj -c D:\Doggo\src\backflip.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/src/backflip.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\src\backflip.cpp.obj -c D:\github\doggo_modify\src\backflip.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/backflip.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/src/backflip.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\src\backflip.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\src\backflip.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\src\backflip.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\src\backflip.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/backflip.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/src/backflip.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\src\backflip.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\src\backflip.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\src\backflip.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\src\backflip.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/datalog.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/src/datalog.cpp.obj: ../src/datalog.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/src/datalog.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\src\datalog.cpp.obj -c D:\Doggo\src\datalog.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/src/datalog.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\src\datalog.cpp.obj -c D:\github\doggo_modify\src\datalog.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/datalog.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/src/datalog.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\src\datalog.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\src\datalog.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\src\datalog.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\src\datalog.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/datalog.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/src/datalog.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\src\datalog.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\src\datalog.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\src\datalog.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\src\datalog.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/debug.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/src/debug.cpp.obj: ../src/debug.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/src/debug.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\src\debug.cpp.obj -c D:\Doggo\src\debug.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/src/debug.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\src\debug.cpp.obj -c D:\github\doggo_modify\src\debug.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/debug.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/src/debug.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\src\debug.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\src\debug.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\src\debug.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\src\debug.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/debug.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/src/debug.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\src\debug.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\src\debug.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\src\debug.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\src\debug.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/globals.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/src/globals.cpp.obj: ../src/globals.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/src/globals.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\src\globals.cpp.obj -c D:\Doggo\src\globals.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/src/globals.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\src\globals.cpp.obj -c D:\github\doggo_modify\src\globals.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/globals.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/src/globals.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\src\globals.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\src\globals.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\src\globals.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\src\globals.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/globals.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/src/globals.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\src\globals.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\src\globals.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\src\globals.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\src\globals.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/imu.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/src/imu.cpp.obj: ../src/imu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/src/imu.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\src\imu.cpp.obj -c D:\Doggo\src\imu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/src/imu.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\src\imu.cpp.obj -c D:\github\doggo_modify\src\imu.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/imu.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/src/imu.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\src\imu.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\src\imu.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\src\imu.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\src\imu.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/imu.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/src/imu.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\src\imu.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\src\imu.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\src\imu.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\src\imu.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/jump.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/src/jump.cpp.obj: ../src/jump.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/src/jump.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\src\jump.cpp.obj -c D:\Doggo\src\jump.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/src/jump.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\src\jump.cpp.obj -c D:\github\doggo_modify\src\jump.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/jump.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/src/jump.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\src\jump.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\src\jump.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\src\jump.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\src\jump.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/jump.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/src/jump.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\src\jump.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\src\jump.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\src\jump.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\src\jump.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/main.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/src/main.cpp.obj: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/src/main.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\src\main.cpp.obj -c D:\Doggo\src\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/src/main.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\src\main.cpp.obj -c D:\github\doggo_modify\src\main.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/src/main.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\src\main.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\src\main.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\src\main.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\src\main.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/src/main.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\src\main.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\src\main.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\src\main.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\src\main.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/position_control.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/src/position_control.cpp.obj: ../src/position_control.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/src/position_control.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\src\position_control.cpp.obj -c D:\Doggo\src\position_control.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/src/position_control.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\src\position_control.cpp.obj -c D:\github\doggo_modify\src\position_control.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/position_control.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/src/position_control.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\src\position_control.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\src\position_control.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\src\position_control.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\src\position_control.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/position_control.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/src/position_control.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\src\position_control.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\src\position_control.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\src\position_control.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\src\position_control.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/uart.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/src/uart.cpp.obj: ../src/uart.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/src/uart.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\src\uart.cpp.obj -c D:\Doggo\src\uart.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/src/uart.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\src\uart.cpp.obj -c D:\github\doggo_modify\src\uart.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/uart.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/src/uart.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\src\uart.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\src\uart.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\src\uart.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\src\uart.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/uart.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/src/uart.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\src\uart.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\src\uart.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\src\uart.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\src\uart.cpp.s
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/usb_serial.cpp.obj: CMakeFiles/Z_DUMMY_TARGET.dir/flags.make
 CMakeFiles/Z_DUMMY_TARGET.dir/src/usb_serial.cpp.obj: ../src/usb_serial.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/src/usb_serial.cpp.obj"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\src\usb_serial.cpp.obj -c D:\Doggo\src\usb_serial.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building CXX object CMakeFiles/Z_DUMMY_TARGET.dir/src/usb_serial.cpp.obj"
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Z_DUMMY_TARGET.dir\src\usb_serial.cpp.obj -c D:\github\doggo_modify\src\usb_serial.cpp
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/usb_serial.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Z_DUMMY_TARGET.dir/src/usb_serial.cpp.i"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Doggo\src\usb_serial.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\src\usb_serial.cpp.i
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\github\doggo_modify\src\usb_serial.cpp > CMakeFiles\Z_DUMMY_TARGET.dir\src\usb_serial.cpp.i
 
 CMakeFiles/Z_DUMMY_TARGET.dir/src/usb_serial.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Z_DUMMY_TARGET.dir/src/usb_serial.cpp.s"
-	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Doggo\src\usb_serial.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\src\usb_serial.cpp.s
+	C:\Users\TerrorBlade\.platformio\packages\toolchain-gccarmnoneeabi\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\github\doggo_modify\src\usb_serial.cpp -o CMakeFiles\Z_DUMMY_TARGET.dir\src\usb_serial.cpp.s
 
 # Object files for target Z_DUMMY_TARGET
 Z_DUMMY_TARGET_OBJECTS = \
@@ -1370,7 +1370,7 @@ Z_DUMMY_TARGET: CMakeFiles/Z_DUMMY_TARGET.dir/src/usb_serial.cpp.obj
 Z_DUMMY_TARGET: CMakeFiles/Z_DUMMY_TARGET.dir/build.make
 Z_DUMMY_TARGET: CMakeFiles/Z_DUMMY_TARGET.dir/objects1.rsp
 Z_DUMMY_TARGET: CMakeFiles/Z_DUMMY_TARGET.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Doggo\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Linking CXX executable Z_DUMMY_TARGET"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Linking CXX executable Z_DUMMY_TARGET"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Z_DUMMY_TARGET.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -1383,6 +1383,6 @@ CMakeFiles/Z_DUMMY_TARGET.dir/clean:
 .PHONY : CMakeFiles/Z_DUMMY_TARGET.dir/clean
 
 CMakeFiles/Z_DUMMY_TARGET.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\Doggo D:\Doggo D:\Doggo\cmake-build-teensy35 D:\Doggo\cmake-build-teensy35 D:\Doggo\cmake-build-teensy35\CMakeFiles\Z_DUMMY_TARGET.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\github\doggo_modify D:\github\doggo_modify D:\github\doggo_modify\cmake-build-teensy35 D:\github\doggo_modify\cmake-build-teensy35 D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles\Z_DUMMY_TARGET.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Z_DUMMY_TARGET.dir/depend
 

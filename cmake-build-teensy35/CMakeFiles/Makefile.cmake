@@ -7,11 +7,6 @@ set(CMAKE_DEPENDS_GENERATOR "MinGW Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "../CMakeLists.txt"
-  "../CMakeListsPrivate.txt"
-  "CMakeFiles/3.16.5/CMakeCCompiler.cmake"
-  "CMakeFiles/3.16.5/CMakeCXXCompiler.cmake"
-  "CMakeFiles/3.16.5/CMakeSystem.cmake"
   "D:/clion/CLion 2020.1.2/bin/cmake/win/share/cmake-3.16/Modules/CMakeCCompiler.cmake.in"
   "D:/clion/CLion 2020.1.2/bin/cmake/win/share/cmake-3.16/Modules/CMakeCCompilerABI.c"
   "D:/clion/CLion 2020.1.2/bin/cmake/win/share/cmake-3.16/Modules/CMakeCInformation.cmake"
@@ -95,6 +90,11 @@ set(CMAKE_MAKEFILE_DEPENDS
   "D:/clion/CLion 2020.1.2/bin/cmake/win/share/cmake-3.16/Modules/Internal/FeatureTesting.cmake"
   "D:/clion/CLion 2020.1.2/bin/cmake/win/share/cmake-3.16/Modules/Platform/Generic.cmake"
   "D:/clion/CLion 2020.1.2/bin/cmake/win/share/cmake-3.16/Modules/ProcessorCount.cmake"
+  "../CMakeLists.txt"
+  "../CMakeListsPrivate.txt"
+  "CMakeFiles/3.16.5/CMakeCCompiler.cmake"
+  "CMakeFiles/3.16.5/CMakeCXXCompiler.cmake"
+  "CMakeFiles/3.16.5/CMakeSystem.cmake"
   )
 
 # The corresponding makefile is:

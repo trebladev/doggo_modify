@@ -1,4 +1,4 @@
-# Install script for directory: D:/Doggo
+# Install script for directory: D:/github/doggo_modify
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Doggo/cmake-build-teensy35/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/github/doggo_modify/cmake-build-teensy35/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

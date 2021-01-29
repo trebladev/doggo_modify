@@ -3,3 +3,6 @@
 --- Created by TerrorBlade.
 --- DateTime: 2021/1/29 20:33
 ---
+function SinTrajectory(params)
+
+end

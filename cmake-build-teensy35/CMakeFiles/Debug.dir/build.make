@@ -42,10 +42,10 @@ RM = "D:\clion\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\Doggo
+CMAKE_SOURCE_DIR = D:\github\doggo_modify
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\Doggo\cmake-build-teensy35
+CMAKE_BINARY_DIR = D:\github\doggo_modify\cmake-build-teensy35
 
 # Utility rule file for Debug.
 
@@ -53,7 +53,7 @@ CMAKE_BINARY_DIR = D:\Doggo\cmake-build-teensy35
 include CMakeFiles/Debug.dir/progress.make
 
 CMakeFiles/Debug:
-	cd /d D:\Doggo && platformio -c clion run --target debug -eteensy35
+	cd /d D:\github\doggo_modify && platformio -c clion run --target debug -eteensy35
 
 Debug: CMakeFiles/Debug
 Debug: CMakeFiles/Debug.dir/build.make
@@ -70,6 +70,6 @@ CMakeFiles/Debug.dir/clean:
 .PHONY : CMakeFiles/Debug.dir/clean
 
 CMakeFiles/Debug.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\Doggo D:\Doggo D:\Doggo\cmake-build-teensy35 D:\Doggo\cmake-build-teensy35 D:\Doggo\cmake-build-teensy35\CMakeFiles\Debug.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\github\doggo_modify D:\github\doggo_modify D:\github\doggo_modify\cmake-build-teensy35 D:\github\doggo_modify\cmake-build-teensy35 D:\github\doggo_modify\cmake-build-teensy35\CMakeFiles\Debug.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Debug.dir/depend
 
