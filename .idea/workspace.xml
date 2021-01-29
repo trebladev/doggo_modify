@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Doggo" targetName="Debug" />
+      <config projectName="Doggo" targetName="Production" />
+      <config projectName="Doggo" targetName="Z_DUMMY_TARGET" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="teensy35" CONFIG_NAME="teensy35" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ce76e16-552f-4776-b989-3aa3be6fbc86" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/position_control.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/position_control.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/position_control.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/position_control.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:teensy35" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="NewLua" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1kdjnmPb6WFLLfadFtGpC8C4Lx0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="PlatformIO.PlatformIO Upload">
+    <configuration name="Z_DUMMY_TARGET" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Doggo" TARGET_NAME="Z_DUMMY_TARGET" CONFIG_NAME="teensy35" RUN_TARGET_PROJECT_NAME="Doggo" RUN_TARGET_NAME="Z_DUMMY_TARGET">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlatformIO Debug" type="platformio" factoryName="PlatformIO Debug" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Doggo" TARGET_NAME="Debug" CONFIG_NAME="teensy35" RUN_TARGET_PROJECT_NAME="Doggo" RUN_TARGET_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlatformIO Upload" type="platformio" factoryName="PlatformIO Upload" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Doggo" TARGET_NAME="Production" CONFIG_NAME="teensy35" RUN_TARGET_PROJECT_NAME="Doggo" RUN_TARGET_NAME="Production">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Z_DUMMY_TARGET" />
+      <item itemvalue="PlatformIO.PlatformIO Debug" />
+      <item itemvalue="PlatformIO.PlatformIO Upload" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ce76e16-552f-4776-b989-3aa3be6fbc86" name="Default Changelist" comment="" />
+      <created>1606037531450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606037531450</updated>
+      <workItem from="1606037534722" duration="65000" />
+      <workItem from="1606112484493" duration="311000" />
+      <workItem from="1606458799444" duration="93000" />
+      <workItem from="1606650515241" duration="470000" />
+      <workItem from="1606651005464" duration="133000" />
+      <workItem from="1607321156063" duration="227000" />
+      <workItem from="1608188419833" duration="1669000" />
+      <workItem from="1608190595990" duration="2872000" />
+      <workItem from="1608253790082" duration="798000" />
+      <workItem from="1608269542285" duration="4049000" />
+      <workItem from="1608274794434" duration="1843000" />
+      <workItem from="1608353725428" duration="632000" />
+      <workItem from="1608557363707" duration="341000" />
+      <workItem from="1608600283579" duration="1750000" />
+      <workItem from="1608770977584" duration="22000" />
+      <workItem from="1608880223938" duration="1124000" />
+      <workItem from="1609124284620" duration="2925000" />
+      <workItem from="1610690040948" duration="647000" />
+      <workItem from="1611560576139" duration="679000" />
+      <workItem from="1611619532007" duration="4394000" />
+      <workItem from="1611656732637" duration="1972000" />
+      <workItem from="1611705484757" duration="12519000" />
+      <workItem from="1611882161927" duration="2826000" />
+      <workItem from="1611912754680" duration="64000" />
+      <workItem from="1611912826122" duration="4310000" />
+      <workItem from="1611923533473" duration="577000" />
+      <workItem from="1611924170519" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="303" key="FileChooserDialogImpl" timestamp="1611924109022">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="303" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1611924109022" />
+    <state width="1875" height="294" key="GridCell.Tab.0.bottom" timestamp="1608285318486">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606037599123" />
+    <state width="1875" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1608285318486" />
+    <state width="1875" height="294" key="GridCell.Tab.0.center" timestamp="1608285318486">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1606037599123" />
+    <state width="1875" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1608285318486" />
+    <state width="1875" height="294" key="GridCell.Tab.0.left" timestamp="1608285318486">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1606037599123" />
+    <state width="1875" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1608285318486" />
+    <state width="1875" height="294" key="GridCell.Tab.0.right" timestamp="1608285318486">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1606037599123" />
+    <state width="1875" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1608285318486" />
+    <state width="1875" height="364" key="GridCell.Tab.1.bottom" timestamp="1608190110422">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="364" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1608190110422" />
+    <state width="1875" height="364" key="GridCell.Tab.1.center" timestamp="1608190110422">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="364" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1608190110422" />
+    <state width="1875" height="364" key="GridCell.Tab.1.left" timestamp="1608190110422">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="364" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1608190110422" />
+    <state width="1875" height="364" key="GridCell.Tab.1.right" timestamp="1608190110422">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="364" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1608190110422" />
+    <state width="1875" height="364" key="GridCell.Tab.2.bottom" timestamp="1608190110422">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="364" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1608190110422" />
+    <state width="1875" height="364" key="GridCell.Tab.2.center" timestamp="1608190110422">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="364" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1608190110422" />
+    <state width="1875" height="364" key="GridCell.Tab.2.left" timestamp="1608190110422">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="364" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1608190110422" />
+    <state width="1875" height="364" key="GridCell.Tab.2.right" timestamp="1608190110422">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="364" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1608190110422" />
+    <state x="461" y="200" key="SettingsEditor" timestamp="1611923511341">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="200" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1611923511341" />
+    <state x="662" y="138" width="596" height="804" key="find.popup" timestamp="1608270038773">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="662" y="138" width="596" height="804" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1608270038773" />
+    <state x="623" y="247" width="672" height="678" key="search.everywhere.popup" timestamp="1611710753460">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="247" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1611710753460" />
+  </component>
+</project>

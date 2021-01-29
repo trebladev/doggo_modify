@@ -1,0 +1,3179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Doggo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Doggo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Production">
+				<Option working_dir="D:/Doggo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 Production"/>
+					<CompileFile command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Doggo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Debug">
+				<Option working_dir="D:/Doggo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 Debug"/>
+					<CompileFile command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Z_DUMMY_TARGET">
+				<Option output="D:/Doggo/cmake-build-debug/Z_DUMMY_TARGET" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Doggo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\cudemx\gnu-tools-arm-embedded\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include/c++/9.3.1"/>
+					<Add directory="d:\cudemx\gnu-tools-arm-embedded\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include/c++/9.3.1/arm-none-eabi"/>
+					<Add directory="d:\cudemx\gnu-tools-arm-embedded\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include/c++/9.3.1/backward"/>
+					<Add directory="d:\cudemx\gnu-tools-arm-embedded\bin\../lib/gcc/arm-none-eabi/9.3.1/include"/>
+					<Add directory="d:\cudemx\gnu-tools-arm-embedded\bin\../lib/gcc/arm-none-eabi/9.3.1/include-fixed"/>
+					<Add directory="d:\cudemx\gnu-tools-arm-embedded\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 Z_DUMMY_TARGET"/>
+					<CompileFile command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Z_DUMMY_TARGET/fast">
+				<Option output="D:/Doggo/cmake-build-debug/Z_DUMMY_TARGET" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Doggo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\cudemx\gnu-tools-arm-embedded\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include/c++/9.3.1"/>
+					<Add directory="d:\cudemx\gnu-tools-arm-embedded\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include/c++/9.3.1/arm-none-eabi"/>
+					<Add directory="d:\cudemx\gnu-tools-arm-embedded\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include/c++/9.3.1/backward"/>
+					<Add directory="d:\cudemx\gnu-tools-arm-embedded\bin\../lib/gcc/arm-none-eabi/9.3.1/include"/>
+					<Add directory="d:\cudemx\gnu-tools-arm-embedded\bin\../lib/gcc/arm-none-eabi/9.3.1/include-fixed"/>
+					<Add directory="d:\cudemx\gnu-tools-arm-embedded\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 Z_DUMMY_TARGET/fast"/>
+					<CompileFile command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Doggo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CudeMx/MinGW/bin/mingw32-make.exe -f &quot;D:/Doggo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Doggo/lib/ChRt/.git">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/.gitattributes">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/.gitignore">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/README.md">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/ChRt.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/MainPage/ChRtMainPage.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/clean_html.bat">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/del_htm.bat">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/_ch_rt_8h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/_ch_rt_8h_source.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/_ch_rt_main_page_8h_source.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/arrowdown.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/arrowright.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/bc_s.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/bdwn.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/closed.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/dir_68267d1309a1af8e8297ef4c3efbcdba.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/dir_f1e74b9d244c08400ce0f6c55d14c7e5.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/doc.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/doxygen.css">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/doxygen.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/dynsections.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/files.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/folderclosed.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/folderopen.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/globals.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/globals_defs.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/globals_func.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/index.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/jquery.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/nav_f.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/nav_g.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/nav_h.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/open.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/all_0.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/all_0.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/all_1.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/all_1.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/all_2.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/all_2.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/all_3.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/all_3.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/close.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/defines_0.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/defines_0.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/files_0.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/files_0.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/functions_0.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/functions_0.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/functions_1.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/functions_1.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/functions_2.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/functions_2.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/functions_3.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/functions_3.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/mag_sel.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/nomatches.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/pages_0.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/pages_0.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/search.css">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/search.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/search_l.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/search_m.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/search_r.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/search/searchdata.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/splitbar.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/sync_off.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/sync_on.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/tab_a.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/tab_b.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/tab_h.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/tab_s.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/doc/html/tabs.css">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/examples/chBlink/chBlink.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/examples/chBlinkPrint/chBlinkPrint.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/examples/chContextTime/chContextTime.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/examples/chCoop/chCoop.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/examples/chDataSharing/chDataSharing.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/examples/chEvent/chEvent.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/examples/chFifoDataLogger/chFifoDataLogger.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/examples/chIsrSemaphore/chIsrSemaphore.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/examples/chJitter/chJitter.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/examples/chMailbox/chMailbox.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/examples/chMemPool/chMemPool.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/examples/chMutex/chMutex.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/examples/chRoundRobin/chRoundRobin.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/examples/chSemaphore/chSemaphore.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/CMSIS/include/arm_common_tables.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/CMSIS/include/arm_const_structs.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/CMSIS/include/arm_math.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/CMSIS/include/cmsis_armcc.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/CMSIS/include/cmsis_armcc_V6.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/CMSIS/include/cmsis_gcc.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/CMSIS/include/core_cm0.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/CMSIS/include/core_cm0plus.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/CMSIS/include/core_cm3.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/CMSIS/include/core_cm4.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/CMSIS/include/core_cm7.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/CMSIS/include/core_cmFunc.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/CMSIS/include/core_cmInstr.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/CMSIS/include/core_cmSimd.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/CMSIS/include/core_sc000.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/CMSIS/include/core_sc300.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/arm/chcore_arm.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/arm/chcore_timer.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/arm/chcore_v6m.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/arm/chcore_v6m.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/arm/chcore_v7m.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/arm/chcore_v7m.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/arm/chcoreasm_v6m.S">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/arm/chcoreasm_v7m.S">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/arm/chtypes_arm.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/arm/mpu.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/ch.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chalign.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chbsem.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chchecks.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chcond.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chcond.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chcustomer.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chdebug.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chdebug.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chdynamic.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chdynamic.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chevents.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chevents.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chheap.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chheap.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chlicense.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chmboxes.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chmboxes.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chmemcore.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chmemcore.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chmempools.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chmempools.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chmsg.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chmsg.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chmtx.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chmtx.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chregistry.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chregistry.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chschd.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chschd.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chsem.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chsem.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chstats.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chstats.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chsys.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chsys.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chsystypes.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chthreads.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chthreads.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chtm.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chtm.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chtrace.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chtrace.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chvt.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/src_org/rt/chvt.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/extra/srcdiff.bat">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/library.properties">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/CMSIS/include/arm_common_tables.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/CMSIS/include/arm_const_structs.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/CMSIS/include/arm_math.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/CMSIS/include/cmsis_armcc.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/CMSIS/include/cmsis_armcc_V6.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/CMSIS/include/cmsis_gcc.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/CMSIS/include/core_cm0.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/CMSIS/include/core_cm0plus.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/CMSIS/include/core_cm3.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/CMSIS/include/core_cm4.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/CMSIS/include/core_cm7.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/CMSIS/include/core_cmFunc.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/CMSIS/include/core_cmInstr.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/CMSIS/include/core_cmSimd.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/CMSIS/include/core_sc000.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/CMSIS/include/core_sc300.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/ChAvrMinSerial.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/ChAvrMinSerial.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/ChRt.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/ChRt.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/ChRt.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/arm/chconf_arm.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/arm/chcore_arm.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/arm/chcore_timer.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/arm/chcore_v6m.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/arm/chcore_v6m.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/arm/chcore_v7m.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/arm/chcore_v7m.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/arm/chcore_v7m_asm.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/arm/chcoreasm_v6m.S">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/arm/chcoreasm_v7m.S">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/arm/chtypes_arm.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/arm/cmparams.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/arm/mpu.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/avr/chconf_avr.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/avr/chcore_avr.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/avr/chcore_avr.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/avr/chcore_timer.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/avr/chtypes_avr.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/avr/st_lld_avr.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/chconf_rt.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/chcore_rt.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/chtypes_rt.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/ch.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chalign.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chbsem.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chchecks.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chcond.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chcond.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chcustomer.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chdebug.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chdebug.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chdynamic.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chdynamic.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chevents.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chevents.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chheap.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chheap.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chlicense.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chmboxes.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chmboxes.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chmemcore.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chmemcore.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chmempools.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chmempools.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chmsg.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chmsg.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chmtx.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chmtx.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chregistry.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chregistry.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chschd.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chschd.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chsem.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chsem.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chstats.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chstats.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chsys.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chsys.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chsystypes.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chthreads.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chthreads.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chtm.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chtm.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chtrace.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chtrace.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chvt.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/rt/chvt.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/sam3x/cmparams_sam3x.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/sam3x/st_lld_sam3x.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/samd/cmparams_samd.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/samd/st_lld_samd.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/teensy3/cmparams_teensy3.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ChRt/src/teensy3/st_lld_teenxy3.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ODriveArduino/ODriveArduino.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ODriveArduino/ODriveArduino.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ODriveArduino/README.md">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/ODriveArduino/examples/ODriveArduinoTest/ODriveArduinoTest.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/.git">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/.gitattributes">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/.gitignore">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/LICENSE.md">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/README.md">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/#attic/AnalogLogger/AnalogLogger.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/#attic/BaseExtCaseTest/BaseExtCaseTest.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/#attic/HelloWorld/HelloWorld.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/#attic/MiniSerial/MiniSerial.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/#attic/PrintBenchmarkSD/PrintBenchmarkSD.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/#attic/SD_Size/SD_Size.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/#attic/SdFatSize/SdFatSize.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/#attic/StreamParseInt/StreamParseInt.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/#attic/append/append.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/#attic/average/average.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/#attic/benchSD/benchSD.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/#attic/bufstream/bufstream.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/#attic/cin_cout/cin_cout.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/#attic/eventlog/eventlog.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/#attic/fgetsRewrite/fgetsRewrite.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/#attic/readlog/readlog.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/#attic/readme.txt">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/AnalogBinLogger/AnalogBinLogger.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/AnalogBinLogger/AnalogBinLogger.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/DirectoryFunctions/DirectoryFunctions.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/LongFileName/LongFileName.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/LongFileName/testFiles/A long name can be 255 characters.txt">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/LongFileName/testFiles/LFN,NAME.TXT">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/LongFileName/testFiles/MIXCASE.txt">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/LongFileName/testFiles/Not_8_3.txt">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/LongFileName/testFiles/OK%83.TXT">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/LongFileName/testFiles/STD_8_3.TXT">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/LongFileName/testFiles/With Blank.txt">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/LongFileName/testFiles/With.Two dots.txt">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/LongFileName/testFiles/lower.txt">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/LongFileName/testFiles/mixed.TXT">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/LowLatencyLogger/LowLatencyLogger.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/LowLatencyLogger/UserFunctions.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/LowLatencyLogger/UserTypes.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/LowLatencyLoggerADXL345/LowLatencyLogger.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/LowLatencyLoggerADXL345/LowLatencyLoggerADXL345.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/LowLatencyLoggerADXL345/UserFunctions.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/LowLatencyLoggerADXL345/UserTypes.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/LowLatencyLoggerADXL345/readme.txt">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/LowLatencyLoggerMPU6050/LowLatencyLogger.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/LowLatencyLoggerMPU6050/LowLatencyLoggerMPU6050.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/LowLatencyLoggerMPU6050/UserFunctions.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/LowLatencyLoggerMPU6050/UserTypes.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/OpenNext/OpenNext.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/PrintBenchmark/PrintBenchmark.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/QuickStart/QuickStart.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/RawWrite/RawWrite.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/ReadCsv/ReadCsv.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/ReadCsvArray/ReadCsvArray.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/ReadCsvStream/ReadCsvStream.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/ReadWrite/ReadWrite.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/STM32Test/STM32Test.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/SdFormatter/SdFormatter.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/SdInfo/SdInfo.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/SoftwareSpi/SoftwareSpi.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/StdioBench/StdioBench.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/TeensySdioDemo/TeensySdioDemo.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/Timestamp/Timestamp.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/TwoCards/TwoCards.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/VolumeFreeSpace/VolumeFreeSpace.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/bench/bench.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/dataLogger/dataLogger.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/fgets/fgets.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/formatting/formatting.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/getline/getline.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/rename/rename.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/examples/wipe/wipe.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/AnalogBinLoggerExtras/ADC_ENOB.PNG">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/AnalogBinLoggerExtras/ADCdocs/ATmegaADCAccuracy.pdf">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/AnalogBinLoggerExtras/ADCdocs/ExcelFFT.pdf">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/AnalogBinLoggerExtras/AdcErrorStudy.txt">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/AnalogBinLoggerExtras/DATA.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/AnalogBinLoggerExtras/FFT.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/AnalogBinLoggerExtras/RateTable.txt">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/AnalogBinLoggerExtras/bintocsv/AnalogBinLogger.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/AnalogBinLoggerExtras/bintocsv/bintocsv.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/AnalogBinLoggerExtras/readme.txt">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/MainPage/SdFatmainpage.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/SdFat.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/SdFatTestSuite/SdFatTestSuite.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/SdFatTestSuite/SdFatTestSuite.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/SdFatTestSuite/examples/ATS_SD_File/ATS_SD_File.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/SdFatTestSuite/examples/ATS_SD_Files/ATS_SD_Files.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/SdFatTestSuite/examples/ATS_SD_Seek/ATS_SD_Seek.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/SdFatTestSuite/examples/StressTest/StressTest.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/SdFatTestSuite/examples/TestMkdir/TestMkdir.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/SdFatTestSuite/examples/TestRmdir/TestRmdir.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/SdFatTestSuite/examples/fstreamTest/fstreamTest.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/SdFatTestSuite/examples/istreamTest/istreamTest.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/SdFatTestSuite/examples/lfnSize/lfnSize.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/SdFatTestSuite/examples/lfnTest/lfnTest.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/SdFatTestSuite/examples/lfnTestCout/lfnTestCout.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/SdFatTestSuite/examples/ostreamTest/ostreamTest.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/changes.txt">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_arduino_files_8h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_arduino_files_8h__dep__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_arduino_files_8h__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_arduino_stream_8h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_arduino_stream_8h__dep__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_arduino_stream_8h__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_block_driver_8h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_block_driver_8h__dep__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_block_driver_8h__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_fat_file_8h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_fat_file_8h__dep__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_fat_file_8h__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_fat_file_system_8h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_fat_file_system_8h__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_fat_lib_config_8h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_fat_lib_config_8h__dep__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_fat_lib_config_8h__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_fat_structs_8h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_fat_structs_8h__dep__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_fat_volume_8h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_fat_volume_8h__dep__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_fat_volume_8h__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_free_stack_8h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_minimum_serial_8h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_minimum_serial_8h__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_sd_fat_8h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_sd_fat_8h__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_sd_fat_config_8h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_sd_fat_config_8h__dep__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_sd_fat_config_8h__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_sd_spi_card_8h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_sd_spi_card_8h__dep__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_sd_spi_card_8h__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_stdio_stream_8h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_stdio_stream_8h__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_sys_call_8h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/_sys_call_8h__dep__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/annotated.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/arrowdown.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/arrowright.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/bc_s.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/bdwn.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/bufstream_8h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/bufstream_8h__dep__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/bufstream_8h__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_arduino_in_stream-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_arduino_in_stream.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_arduino_in_stream__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_arduino_in_stream__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_arduino_out_stream-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_arduino_out_stream.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_arduino_out_stream__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_arduino_out_stream__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_base_block_driver-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_base_block_driver.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_base_block_driver__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_fat_cache-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_fat_cache.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_fat_file-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_fat_file.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_fat_file__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_fat_file_system-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_fat_file_system.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_fat_file_system__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_fat_file_system__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_fat_stream_base-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_fat_stream_base.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_fat_stream_base__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_fat_stream_base__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_fat_volume-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_fat_volume.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_fat_volume__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_file-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_file.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_file__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_file__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_minimum_serial-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_minimum_serial.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_minimum_serial__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_minimum_serial__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_print_file-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_print_file.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_print_file__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_print_file__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd2_card-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd2_card.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd2_card__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd2_card__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_base_file-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_base_file.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_base_file__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_base_file__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_fat-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_fat.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_fat__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_fat__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_fat_e_x-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_fat_e_x.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_fat_e_x__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_fat_e_x__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_fat_sdio-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_fat_sdio.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_fat_sdio__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_fat_sdio__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_fat_soft_spi-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_fat_soft_spi.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_fat_soft_spi__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_fat_soft_spi__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_fat_soft_spi_e_x-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_fat_soft_spi_e_x.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_fat_soft_spi_e_x__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_fat_soft_spi_e_x__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_file-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_file.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_file__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_file__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_file_system-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_file_system.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_file_system__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_file_system__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_spi_card-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_spi_card.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_spi_card__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_spi_card_e_x-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_spi_card_e_x.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_spi_card_e_x__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sd_spi_card_e_x__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sdio_card-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sdio_card.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sdio_card__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sdio_card__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_stdio_stream-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_stdio_stream.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_stdio_stream__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_stdio_stream__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sys_call-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/class_sys_call.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classes.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classfstream-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classfstream.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classfstream__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classfstream__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classibufstream-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classibufstream.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classibufstream__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classibufstream__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classifstream-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classifstream.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classifstream__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classifstream__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classios-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classios.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classios__base-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classios__base.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classios__base__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classios__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classios__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classiostream-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classiostream.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classiostream__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classiostream__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classistream-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classistream.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classistream__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classistream__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classobufstream-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classobufstream.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classobufstream__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classobufstream__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classofstream-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classofstream.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classofstream__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classofstream__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classostream-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classostream.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classostream__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/classostream__inherit__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/closed.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/dir_000004_000006.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/dir_1281b15c327061056ab3b326e90c50cf.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/dir_1281b15c327061056ab3b326e90c50cf_dep.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/dir_481cc946b8a81b8d9363a4aad6201160.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/dir_481cc946b8a81b8d9363a4aad6201160_dep.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/dir_63fabcaba1b3b939579f46003349a6c5.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/dir_63fabcaba1b3b939579f46003349a6c5_dep.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/dir_7e472674a7b7d2590a789f197241f95f.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/dir_7e472674a7b7d2590a789f197241f95f_dep.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/dir_a70af2fb8f1edf8b7124f41d82dbf480.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/dir_a70af2fb8f1edf8b7124f41d82dbf480_dep.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/dir_a991eec27578c865874ede3d8ec657c2.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/dir_a991eec27578c865874ede3d8ec657c2_dep.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/dir_c18d6c86f7b0afecac5c3a8a9885031e.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/dir_c18d6c86f7b0afecac5c3a8a9885031e_dep.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/doc.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/doxygen.css">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/doxygen.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/dynsections.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/files.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/folderclosed.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/folderopen.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/fstream_8h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/fstream_8h__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_b.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_c.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_d.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_e.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_enum.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_eval.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_f.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_func.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_func_b.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_func_c.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_func_d.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_func_e.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_func_f.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_func_g.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_func_h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_func_i.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_func_l.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_func_m.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_func_n.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_func_o.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_func_p.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_func_r.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_func_s.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_func_t.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_func_u.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_func_v.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_func_w.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_func_y.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_g.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_i.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_j.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_l.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_m.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_n.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_o.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_p.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_r.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_s.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_t.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_type.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_u.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_v.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_vars.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_w.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/functions_y.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/globals.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/globals_defs.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/globals_func.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/globals_type.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/globals_vars.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/graph_legend.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/graph_legend.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/hierarchy.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/index.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/inherit_graph_0.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/inherit_graph_1.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/inherit_graph_10.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/inherit_graph_11.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/inherit_graph_12.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/inherit_graph_13.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/inherit_graph_14.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/inherit_graph_15.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/inherit_graph_16.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/inherit_graph_17.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/inherit_graph_18.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/inherit_graph_19.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/inherit_graph_2.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/inherit_graph_3.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/inherit_graph_4.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/inherit_graph_5.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/inherit_graph_6.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/inherit_graph_7.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/inherit_graph_8.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/inherit_graph_9.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/inherits.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/ios_8h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/ios_8h__dep__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/ios_8h__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/iostream_8h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/iostream_8h__dep__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/iostream_8h__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/istream_8h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/istream_8h__dep__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/istream_8h__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/jquery.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/nav_f.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/nav_g.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/nav_h.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/open.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/ostream_8h.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/ostream_8h__dep__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/ostream_8h__incl.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_0.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_0.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_1.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_1.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_10.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_10.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_11.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_11.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_12.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_12.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_13.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_13.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_14.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_14.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_15.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_15.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_16.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_16.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_2.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_2.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_3.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_3.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_4.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_4.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_5.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_5.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_6.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_6.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_7.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_7.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_8.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_8.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_9.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_9.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_a.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_a.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_b.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_b.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_c.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_c.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_d.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_d.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_e.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_e.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_f.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/all_f.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/classes_0.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/classes_0.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/classes_1.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/classes_1.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/classes_2.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/classes_2.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/classes_3.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/classes_3.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/classes_4.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/classes_4.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/classes_5.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/classes_5.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/classes_6.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/classes_6.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/classes_7.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/classes_7.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/classes_8.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/classes_8.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/classes_9.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/classes_9.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/classes_a.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/classes_a.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/close.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/defines_0.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/defines_0.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/defines_1.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/defines_1.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/defines_2.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/defines_2.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/defines_3.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/defines_3.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/defines_4.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/defines_4.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/defines_5.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/defines_5.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/defines_6.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/defines_6.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/defines_7.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/defines_7.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/defines_8.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/defines_8.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/defines_9.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/defines_9.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/enums_0.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/enums_0.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/enumvalues_0.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/enumvalues_0.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/enumvalues_1.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/enumvalues_1.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/enumvalues_2.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/enumvalues_2.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/files_0.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/files_0.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/files_1.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/files_1.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/files_2.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/files_2.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/files_3.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/files_3.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/files_4.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/files_4.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/files_5.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/files_5.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/files_6.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/files_6.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_0.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_0.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_1.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_1.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_10.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_10.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_11.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_11.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_12.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_12.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_13.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_13.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_14.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_14.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_2.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_2.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_3.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_3.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_4.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_4.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_5.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_5.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_6.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_6.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_7.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_7.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_8.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_8.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_9.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_9.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_a.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_a.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_b.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_b.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_c.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_c.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_d.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_d.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_e.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_e.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_f.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/functions_f.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/mag_sel.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/nomatches.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/pages_0.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/pages_0.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/search.css">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/search.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/search_l.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/search_m.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/search_r.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/searchdata.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/typedefs_0.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/typedefs_0.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/typedefs_1.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/typedefs_1.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/typedefs_2.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/typedefs_2.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/typedefs_3.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/typedefs_3.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/typedefs_4.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/typedefs_4.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/typedefs_5.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/typedefs_5.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/typedefs_6.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/typedefs_6.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/typedefs_7.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/typedefs_7.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/typedefs_8.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/typedefs_8.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_0.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_0.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_1.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_1.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_10.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_10.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_11.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_11.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_12.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_12.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_13.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_13.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_14.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_14.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_15.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_15.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_2.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_2.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_3.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_3.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_4.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_4.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_5.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_5.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_6.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_6.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_7.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_7.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_8.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_8.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_9.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_9.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_a.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_a.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_b.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_b.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_c.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_c.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_d.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_d.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_e.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_e.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_f.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/search/variables_f.js">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/splitbar.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/struct_fat_pos__t-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/struct_fat_pos__t.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structbios_parm_block-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structbios_parm_block.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structdirectory_entry-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structdirectory_entry.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structfat32__boot-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structfat32__boot.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structfat32__fsinfo-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structfat32__fsinfo.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structfat__boot-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structfat__boot.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structfname__t-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structfname__t.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structlong_directory_entry-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structlong_directory_entry.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structmaster_boot_record-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structmaster_boot_record.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structmaster_boot_record__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structpartition_table-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structpartition_table.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structsetfill-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structsetfill.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structsetprecision-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structsetprecision.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structsetw-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/structsetw.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/sync_off.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/sync_on.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/tab_a.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/tab_b.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/tab_h.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/tab_s.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/tabs.css">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/unioncache__t-members.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/unioncache__t.html">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/extras/html/unioncache__t__coll__graph.png">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/library.properties">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/BlockDriver.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/ArduinoFiles.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/ArduinoStream.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/BaseBlockDriver.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/FatApiConstants.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/FatFile.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/FatFile.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/FatFileLFN.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/FatFilePrint.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/FatFileSFN.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/FatFileSystem.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/FatLib.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/FatLibConfig.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/FatStructs.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/FatVolume.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/FatVolume.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/FmtNumber.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/FmtNumber.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/StdioStream.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/StdioStream.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/bufstream.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/fstream.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/fstream.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/ios.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/iostream.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/istream.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/istream.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/ostream.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FatLib/ostream.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/FreeStack.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/MinimumSerial.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/MinimumSerial.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SdCard/SdInfo.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SdCard/SdSpiCard.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SdCard/SdSpiCard.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SdCard/SdSpiCardEX.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SdCard/SdioCard.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SdCard/SdioCardEX.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SdCard/SdioTeensy.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SdFat.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SdFatConfig.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SpiDriver/DigitalPin.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SpiDriver/SdSpiBaseDriver.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SpiDriver/SdSpiDriver.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SpiDriver/SdSpiESP8266.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SpiDriver/SdSpiSAM3X.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SpiDriver/SdSpiSTM32.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SpiDriver/SdSpiTeensy3.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SpiDriver/SoftSPI.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SpiDriver/boards/AvrDevelopersGpioPinMap.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SpiDriver/boards/BobuinoGpioPinMap.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SpiDriver/boards/GpioPinMap.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SpiDriver/boards/LeonardoGpioPinMap.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SpiDriver/boards/MegaGpioPinMap.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SpiDriver/boards/SleepingBeautyGpioPinMap.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SpiDriver/boards/Standard1284GpioPinMap.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SpiDriver/boards/Teensy2GpioPinMap.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SpiDriver/boards/Teensy2ppGpioPinMap.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SpiDriver/boards/UnoGpioPinMap.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/SysCall.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SdFat/src/sdios.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SparkFun_BNO080_Arduino_Library/.git">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SparkFun_BNO080_Arduino_Library/.gitattributes">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SparkFun_BNO080_Arduino_Library/.gitignore">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SparkFun_BNO080_Arduino_Library/LICENSE.md">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SparkFun_BNO080_Arduino_Library/README.md">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SparkFun_BNO080_Arduino_Library/examples/Example1-RotationVector/Example1-RotationVector.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SparkFun_BNO080_Arduino_Library/examples/Example10-PrintPacket/Example10-PrintPacket.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SparkFun_BNO080_Arduino_Library/examples/Example11-AdvancedConfig/Example11-AdvancedConfig.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SparkFun_BNO080_Arduino_Library/examples/Example12-LinearAccelerometer/Example12-LinearAccelerometer.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SparkFun_BNO080_Arduino_Library/examples/Example2-Accelerometer/Example2-Accelerometer.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SparkFun_BNO080_Arduino_Library/examples/Example3-Gyro/Example3-Gyro.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SparkFun_BNO080_Arduino_Library/examples/Example4-Magnetometer/Example4-Magnetometer.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SparkFun_BNO080_Arduino_Library/examples/Example5-StepCounter/Example5-StepCounter.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SparkFun_BNO080_Arduino_Library/examples/Example6-MetaData/Example6-MetaData.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SparkFun_BNO080_Arduino_Library/examples/Example7-StabilityClassifier/Example7-StabilityClassifier.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SparkFun_BNO080_Arduino_Library/examples/Example8-ActivityClassifier/Example8-ActivityClassifier.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SparkFun_BNO080_Arduino_Library/examples/Example9-Calibrate/Example9-Calibrate.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SparkFun_BNO080_Arduino_Library/examples/SPI/Example1-RotationVector/Example1-RotationVector.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SparkFun_BNO080_Arduino_Library/examples/SPI/Example12-LinearAccelerometer/Example12-LinearAccelerometer.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SparkFun_BNO080_Arduino_Library/keywords.txt">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SparkFun_BNO080_Arduino_Library/library.properties">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SparkFun_BNO080_Arduino_Library/src/SparkFun_BNO080_Arduino_Library.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/SparkFun_BNO080_Arduino_Library/src/SparkFun_BNO080_Arduino_Library.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/lib/readme.txt">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/src/backflip.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/src/backflip.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/src/config.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/src/datalog.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/src/datalog.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/src/debug.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/src/debug.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/src/globals.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/src/globals.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/src/imu.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/src/imu.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/src/jump.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/src/jump.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/src/jump.hpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/src/main.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/src/position_control.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/src/position_control.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/src/uart.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/src/uart.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/src/usb_serial.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/src/usb_serial.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="D:/Doggo/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/Doggo/CMakeListsPrivate.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

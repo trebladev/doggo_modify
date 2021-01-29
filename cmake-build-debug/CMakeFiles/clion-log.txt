@@ -1,0 +1,14 @@
+"D:\clion\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/CudeMx/MinGW/bin/mingw32-make.exe -DCMAKE_C_COMPILER=D:/CudeMx/GNU-Tools-ARM-Embedded/bin/arm-none-eabi-gcc.exe -DCMAKE_CXX_COMPILER=D:/CudeMx/GNU-Tools-ARM-Embedded/bin/arm-none-eabi-g++.exe -G "CodeBlocks - MinGW Makefiles" D:\Doggo
+-- The C compiler identification is GNU 9.3.1
+-- The CXX compiler identification is GNU 9.3.1
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - failed
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - failed
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Doggo/cmake-build-debug
