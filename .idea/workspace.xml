@@ -31,10 +31,73 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ce76e16-552f-4776-b989-3aa3be6fbc86" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/position_control.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/position_control.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/position_control.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/position_control.h" afterDir="false" />
+    <list default="true" id="7ce76e16-552f-4776-b989-3aa3be6fbc86" name="Default Changelist" comment="add build files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/project.checksum" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/project.checksum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/.sconsign38.dblite" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/teensy35/.sconsign38.dblite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/firmware.elf" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/teensy35/firmware.elf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/firmware.hex" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/teensy35/firmware.hex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib680/ODriveArduino/ODriveArduino.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib680/libODriveArduino.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib6ba/SdFat/FatLib/FatFile.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib6ba/SdFat/FatLib/FatFileLFN.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib6ba/SdFat/FatLib/FatFilePrint.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib6ba/SdFat/FatLib/FatFileSFN.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib6ba/SdFat/FatLib/FatVolume.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib6ba/SdFat/FatLib/FmtNumber.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib6ba/SdFat/FatLib/StdioStream.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib6ba/SdFat/FatLib/fstream.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib6ba/SdFat/FatLib/istream.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib6ba/SdFat/FatLib/ostream.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib6ba/SdFat/MinimumSerial.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib6ba/SdFat/SdCard/SdSpiCard.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib6ba/SdFat/SdCard/SdSpiCardEX.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib6ba/SdFat/SdCard/SdioCardEX.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib6ba/SdFat/SdCard/SdioTeensy.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib6ba/SdFat/SpiDriver/SdSpiESP8266.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib6ba/SdFat/SpiDriver/SdSpiSAM3X.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib6ba/SdFat/SpiDriver/SdSpiSTM32.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib6ba/SdFat/SpiDriver/SdSpiTeensy3.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib6ba/libSdFat.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/ChAvrMinSerial.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/ChRt.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/ChRt.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/arm/chcore_v6m.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/arm/chcore_v7m.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/arm/chcore_v7m_asm.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/arm/chcoreasm_v6m.S.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/arm/chcoreasm_v7m.S.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/avr/chcore_avr.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/avr/st_lld_avr.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/rt/chcond.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/rt/chdebug.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/rt/chdynamic.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/rt/chevents.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/rt/chheap.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/rt/chmboxes.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/rt/chmemcore.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/rt/chmempools.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/rt/chmsg.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/rt/chmtx.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/rt/chregistry.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/rt/chschd.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/rt/chsem.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/rt/chstats.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/rt/chsys.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/rt/chthreads.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/rt/chtm.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/rt/chtrace.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/rt/chvt.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/sam3x/st_lld_sam3x.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/samd/st_lld_samd.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/ChRt/teensy3/st_lld_teenxy3.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/lib86c/libChRt.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/libFrameworkArduino.a" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/teensy35/libFrameworkArduino.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/libb8a/libSPI.a" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/teensy35/libb8a/libSPI.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/libd8c/SparkFun_BNO080_Arduino_Library/SparkFun_BNO080_Arduino_Library.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/libd8c/libSparkFun_BNO080_Arduino_Library.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/libfd2/libWire.a" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/teensy35/libfd2/libWire.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simulation/single_leg(v-rep).lua" beforeDir="false" afterPath="$PROJECT_DIR$/simulation/test.lua" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,14 +135,34 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/Lua/5.1/lua.exe" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="PlatformIO.PlatformIO Upload">
+  <component name="RunManager" selected="Lua Application.test.lua">
     <configuration name="Z_DUMMY_TARGET" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Doggo" TARGET_NAME="Z_DUMMY_TARGET" CONFIG_NAME="teensy35" RUN_TARGET_PROJECT_NAME="Doggo" RUN_TARGET_NAME="Z_DUMMY_TARGET">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="single_leg(v-rep).lua" type="lua.app" factoryName="Lua Application" temporary="true">
+      <option name="program" value="C:\Program Files (x86)\Lua\5.1\lua.exe" />
+      <option name="file" value="$PROJECT_DIR$/simulation/single_leg(v-rep).lua" />
+      <option name="workingDir" value="D:\github\doggo_modify\simulation" />
+      <option name="debuggerType" value="2" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test.lua" type="lua.app" factoryName="Lua Application" temporary="true">
+      <option name="program" value="C:\Program Files (x86)\Lua\5.1\lua.exe" />
+      <option name="file" value="$PROJECT_DIR$/simulation/test.lua" />
+      <option name="workingDir" value="D:\github\doggo_modify\simulation" />
+      <option name="debuggerType" value="2" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
     </configuration>
     <configuration name="PlatformIO Debug" type="platformio" factoryName="PlatformIO Debug" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Doggo" TARGET_NAME="Debug" CONFIG_NAME="teensy35" RUN_TARGET_PROJECT_NAME="Doggo" RUN_TARGET_NAME="Debug">
       <method v="2">
@@ -93,9 +176,17 @@
     </configuration>
     <list>
       <item itemvalue="CMake Application.Z_DUMMY_TARGET" />
+      <item itemvalue="Lua Application.single_leg(v-rep).lua" />
+      <item itemvalue="Lua Application.test.lua" />
       <item itemvalue="PlatformIO.PlatformIO Debug" />
       <item itemvalue="PlatformIO.PlatformIO Upload" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Lua Application.test.lua" />
+        <item itemvalue="Lua Application.single_leg(v-rep).lua" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -134,7 +225,20 @@
       <workItem from="1611912826122" duration="4310000" />
       <workItem from="1611923533473" duration="577000" />
       <workItem from="1611924170519" duration="38000" />
+      <workItem from="1611926355254" duration="2652000" />
+      <workItem from="1611929872824" duration="28000" />
+      <workItem from="1611929908203" duration="625000" />
+      <workItem from="1611930701527" duration="117000" />
+      <workItem from="1611930826792" duration="130000" />
     </task>
+    <task id="LOCAL-00001" summary="add build files">
+      <created>1611926629582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611926629582</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,47 +256,55 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add build files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add build files" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="303" key="FileChooserDialogImpl" timestamp="1611924109022">
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611930912303">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="740" y="303" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1611924109022" />
-    <state width="1875" height="294" key="GridCell.Tab.0.bottom" timestamp="1608285318486">
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1611930912303" />
+    <state x="740" y="303" key="FileChooserDialogImpl" timestamp="1611930744404">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="303" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1611930744404" />
+    <state width="1875" height="294" key="GridCell.Tab.0.bottom" timestamp="1611930956918">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606037599123" />
-    <state width="1875" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1608285318486" />
-    <state width="1875" height="294" key="GridCell.Tab.0.center" timestamp="1608285318486">
+    <state width="1875" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1611930956918" />
+    <state width="1875" height="294" key="GridCell.Tab.0.center" timestamp="1611930956918">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1606037599123" />
-    <state width="1875" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1608285318486" />
-    <state width="1875" height="294" key="GridCell.Tab.0.left" timestamp="1608285318486">
+    <state width="1875" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1611930956918" />
+    <state width="1875" height="294" key="GridCell.Tab.0.left" timestamp="1611930956918">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1606037599123" />
-    <state width="1875" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1608285318486" />
-    <state width="1875" height="294" key="GridCell.Tab.0.right" timestamp="1608285318486">
+    <state width="1875" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1611930956918" />
+    <state width="1875" height="294" key="GridCell.Tab.0.right" timestamp="1611930956918">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1606037599123" />
-    <state width="1875" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1608285318486" />
-    <state width="1875" height="364" key="GridCell.Tab.1.bottom" timestamp="1608190110422">
+    <state width="1875" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1611930956918" />
+    <state width="937" height="364" key="GridCell.Tab.1.bottom" timestamp="1611929865406">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="364" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1608190110422" />
-    <state width="1875" height="364" key="GridCell.Tab.1.center" timestamp="1608190110422">
+    <state width="937" height="364" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1611929865406" />
+    <state width="937" height="364" key="GridCell.Tab.1.center" timestamp="1611929865406">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="364" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1608190110422" />
-    <state width="1875" height="364" key="GridCell.Tab.1.left" timestamp="1608190110422">
+    <state width="937" height="364" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1611929865406" />
+    <state width="937" height="364" key="GridCell.Tab.1.left" timestamp="1611929865406">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="364" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1608190110422" />
-    <state width="1875" height="364" key="GridCell.Tab.1.right" timestamp="1608190110422">
+    <state width="937" height="364" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1611929865406" />
+    <state width="937" height="364" key="GridCell.Tab.1.right" timestamp="1611929865406">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="364" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1608190110422" />
+    <state width="937" height="364" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1611929865406" />
     <state width="1875" height="364" key="GridCell.Tab.2.bottom" timestamp="1608190110422">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -209,10 +321,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1875" height="364" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1608190110422" />
-    <state x="461" y="200" key="SettingsEditor" timestamp="1611923511341">
+    <state x="461" y="200" key="SettingsEditor" timestamp="1611930955928">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="461" y="200" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1611923511341" />
+    <state x="461" y="200" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1611930955928" />
     <state x="662" y="138" width="596" height="804" key="find.popup" timestamp="1608270038773">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
