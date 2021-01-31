@@ -31,8 +31,16 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ce76e16-552f-4776-b989-3aa3be6fbc86" name="Default Changelist" comment="add lua file for simulation">
+    <list default="true" id="7ce76e16-552f-4776-b989-3aa3be6fbc86" name="Default Changelist" comment="add gait function in simulation">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/test_lua.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/.sconsign38.dblite" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/teensy35/.sconsign38.dblite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/firmware.elf" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/teensy35/firmware.elf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/firmware.hex" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/teensy35/firmware.hex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/libFrameworkArduino.a" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/teensy35/libFrameworkArduino.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/libb8a/libSPI.a" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/teensy35/libb8a/libSPI.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/libfd2/libWire.a" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/teensy35/libfd2/libWire.a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/simulation/test.lua" beforeDir="false" afterPath="$PROJECT_DIR$/simulation/test.lua" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,9 +76,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="C:/Program Files (x86)/Lua" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/simulation" />
     <property name="settings.editor.selected.configurable" value="preferences.Lua" />
   </component>
   <component name="RunManager" selected="Lua Application.test.lua">
@@ -89,16 +98,6 @@
       <option name="showConsole" value="true" />
       <method v="2" />
     </configuration>
-    <configuration name="test.lua" type="lua.app" factoryName="Lua Application" singleton="false" temporary="true">
-      <option name="program" value="C:\Program Files (x86)\Lua\5.1\lua.exe" />
-      <option name="file" value="$PROJECT_DIR$/simulation/test.lua" />
-      <option name="workingDir" value="$PROJECT_DIR$/lib/SdFat/library.properties" />
-      <option name="debuggerType" value="2" />
-      <option name="params" value="" />
-      <option name="charset" value="UTF-8" />
-      <option name="showConsole" value="true" />
-      <method v="2" />
-    </configuration>
     <configuration name="PlatformIO Debug" type="platformio" factoryName="PlatformIO Debug" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Doggo" TARGET_NAME="Debug" CONFIG_NAME="teensy35" RUN_TARGET_PROJECT_NAME="Doggo" RUN_TARGET_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -111,14 +110,13 @@
     </configuration>
     <list>
       <item itemvalue="CMake Application.Z_DUMMY_TARGET" />
-      <item itemvalue="Lua Application.single_leg(v-rep).lua" />
       <item itemvalue="Lua Application.test.lua" />
+      <item itemvalue="Lua Application.single_leg(v-rep).lua" />
       <item itemvalue="PlatformIO.PlatformIO Debug" />
       <item itemvalue="PlatformIO.PlatformIO Upload" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Lua Application.test.lua" />
         <item itemvalue="Lua Application.single_leg(v-rep).lua" />
       </list>
     </recent_temporary>
@@ -166,7 +164,10 @@
       <workItem from="1611930701527" duration="117000" />
       <workItem from="1611930826792" duration="130000" />
       <workItem from="1611930964500" duration="2330000" />
-      <workItem from="1611985908171" duration="3912000" />
+      <workItem from="1611985908171" duration="3997000" />
+      <workItem from="1611990625144" duration="766000" />
+      <workItem from="1611997253717" duration="5249000" />
+      <workItem from="1612072144781" duration="2449000" />
     </task>
     <task id="LOCAL-00001" summary="add build files">
       <created>1611926629582</created>
@@ -182,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611931265633</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add gait function in simulation">
+      <created>1611990244417</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611990244417</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,69 +211,70 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add build files" />
     <MESSAGE value="add lua file for simulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lua file for simulation" />
+    <MESSAGE value="add gait function in simulation" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gait function in simulation" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="299" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611990160184">
+    <state x="299" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611990658080">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="299" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1611990160184" />
-    <state x="740" y="303" key="FileChooserDialogImpl" timestamp="1611989994226">
+    <state x="299" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1611990658080" />
+    <state x="740" y="303" key="FileChooserDialogImpl" timestamp="1611990643960">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="740" y="303" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1611989994226" />
-    <state width="1875" height="364" key="GridCell.Tab.0.bottom" timestamp="1611990001366">
+    <state x="740" y="303" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1611990643960" />
+    <state width="1875" height="294" key="GridCell.Tab.0.bottom" timestamp="1612018960030">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606037599123" />
-    <state width="1875" height="364" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1611990001366" />
-    <state width="1875" height="364" key="GridCell.Tab.0.center" timestamp="1611990001366">
+    <state width="1875" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1612018960030" />
+    <state width="1875" height="294" key="GridCell.Tab.0.center" timestamp="1612018960030">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1606037599123" />
-    <state width="1875" height="364" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1611990001366" />
-    <state width="1875" height="364" key="GridCell.Tab.0.left" timestamp="1611990001366">
+    <state width="1875" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1612018960030" />
+    <state width="1875" height="294" key="GridCell.Tab.0.left" timestamp="1612018960030">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1606037599123" />
-    <state width="1875" height="364" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1611990001366" />
-    <state width="1875" height="364" key="GridCell.Tab.0.right" timestamp="1611990001366">
+    <state width="1875" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1612018960030" />
+    <state width="1875" height="294" key="GridCell.Tab.0.right" timestamp="1612018960030">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1606037599123" />
-    <state width="1875" height="364" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1611990001366" />
-    <state width="1875" height="364" key="GridCell.Tab.1.bottom" timestamp="1611990001310">
+    <state width="1875" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1612018960030" />
+    <state width="1875" height="364" key="GridCell.Tab.1.bottom" timestamp="1612009522689">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="364" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1611990001310" />
-    <state width="1875" height="364" key="GridCell.Tab.1.center" timestamp="1611990001310">
+    <state width="1875" height="364" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1612009522689" />
+    <state width="1875" height="364" key="GridCell.Tab.1.center" timestamp="1612009522688">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="364" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1611990001310" />
-    <state width="1875" height="364" key="GridCell.Tab.1.left" timestamp="1611990001310">
+    <state width="1875" height="364" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1612009522688" />
+    <state width="1875" height="364" key="GridCell.Tab.1.left" timestamp="1612009522688">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="364" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1611990001310" />
-    <state width="1875" height="364" key="GridCell.Tab.1.right" timestamp="1611990001310">
+    <state width="1875" height="364" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1612009522688" />
+    <state width="1875" height="364" key="GridCell.Tab.1.right" timestamp="1612009522689">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="364" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1611990001310" />
-    <state width="1875" height="364" key="GridCell.Tab.2.bottom" timestamp="1608190110422">
+    <state width="1875" height="364" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1612009522689" />
+    <state width="1875" height="364" key="GridCell.Tab.2.bottom" timestamp="1612009522689">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="364" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1608190110422" />
-    <state width="1875" height="364" key="GridCell.Tab.2.center" timestamp="1608190110422">
+    <state width="1875" height="364" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1612009522689" />
+    <state width="1875" height="364" key="GridCell.Tab.2.center" timestamp="1612009522689">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="364" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1608190110422" />
-    <state width="1875" height="364" key="GridCell.Tab.2.left" timestamp="1608190110422">
+    <state width="1875" height="364" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1612009522689" />
+    <state width="1875" height="364" key="GridCell.Tab.2.left" timestamp="1612009522689">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="364" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1608190110422" />
-    <state width="1875" height="364" key="GridCell.Tab.2.right" timestamp="1608190110422">
+    <state width="1875" height="364" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1612009522689" />
+    <state width="1875" height="364" key="GridCell.Tab.2.right" timestamp="1612009522689">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="364" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1608190110422" />
+    <state width="1875" height="364" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1612009522689" />
     <state x="461" y="200" key="SettingsEditor" timestamp="1611990150390">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

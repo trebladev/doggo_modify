@@ -7,11 +7,13 @@
 require("math")
 require("socket")
 
-function sleep(n)
-    socket.select(nil, nil, n)
+function sleep(s)
+    local ntime = socket.gettime() + s
+    repeat until socket.gettime() > ntime
 end
 L1 = 0.09
 L2 = 0.162
+p = 0
 
 GaitParams = {}
 GaitParams["stance_height"] = 0.18
@@ -55,7 +57,6 @@ end
 --正弦函数生成器
 --返回笛卡尔坐标中x，y
 function SinTrajectory(params)
-    local p = 0
     local t_diff = 0.02
     local stanceHeight = params.stance_height
     local downAMP = params.down_amp
@@ -78,7 +79,7 @@ function SinTrajectory(params)
          x = -percentBack*stepLength + stepLength/2.0
          y = downAMP*math.sin(math.pi*percentBack) + stanceHeight
     end
-
+    --print(p)
     return x,y
 
 end
@@ -122,17 +123,15 @@ end
 
 
 changeGaitParams(state_gait_params[2])
+
 while (true)
-    do
+do
     local x,y
     local theta,gamma
     x,y = SinTrajectory(GaitParams)
     theta,gamma = CartesianToThetaGamma(x,y,1)
     print("theta =",x,"gamma =",y)
+    --socket.sleep(1)
 
 end
-print(GaitParams.stance_height)
-
-
-
 
