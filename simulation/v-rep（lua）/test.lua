@@ -95,7 +95,7 @@ end
 
 --将腿部参数L，theta转换成电机的gamma值
 --返回gamma
-function GetGamma(L,theta)
+function GetGamma(L)
     local gamma
     local cos_param = (math.pow(L1,2.0) + math.pow(L,2.0) - math.pow(L2,2.0)) / (2.0*L1*L)
     if(cos_param < -1.0) then
@@ -106,7 +106,36 @@ function GetGamma(L,theta)
         gamma = math.acos(cos_param)
 
     end
-    return theta,gamma
+    return gamma
+end
+
+function GetAngleWhenXequal0(x,y)
+    local cos_angle
+    local angle
+    cos_angle = (math.pow(L1,2.0)+math.pow(y,2.0)-math.pow(L2,2.0)) / (2.0*L1*L)
+    angle = math.acos(cos_angle)
+
+    return angle
+
+
+end
+
+function straight_line()
+    local x,y,t_diff
+    x = 0
+    p = p+t_diff
+
+    if(y<0.17and y>-0.17)then
+        y = y+0.02
+    end
+    if(y>0.17)then
+        y = y- 0.02
+    end
+    if(y<-0.17)then
+        y = y+0.02
+    end
+
+    return x,y
 end
 
 
@@ -116,7 +145,7 @@ function CartesianToThetaGamma(x,y,leg_direction)
     local L,theta
     local gamma
     L,theta = CartesianToLegParams(x,y,leg_direction)
-    gamma = GetGamma(L,theta)
+    theta,gamma = GetGamma(L)
 
     return theta,gamma
 end
