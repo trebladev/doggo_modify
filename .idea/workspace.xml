@@ -31,11 +31,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ce76e16-552f-4776-b989-3aa3be6fbc86" name="Default Changelist" comment="add gait simulation files of matlab">
-      <change afterPath="$PROJECT_DIR$/simulation/v-rep（lua）/non-thread-script.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simulation/v-rep（lua）/test.lua" beforeDir="false" afterPath="$PROJECT_DIR$/simulation/v-rep（lua）/test.lua" afterDir="false" />
-    </list>
+    <list default="true" id="7ce76e16-552f-4776-b989-3aa3be6fbc86" name="Default Changelist" comment="add v-rep scene “single_gain”" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,11 +72,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github\doggo_modify\simulation\v-rep_scene" />
+      <recent name="D:\github\doggo_modify\simulation\v-rep（lua）" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\github\doggo_modify\simulation\matlab" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\github\doggo_modify\simulation\v-rep（lua）" />
     </key>
   </component>
   <component name="RunManager" selected="Lua Application.test.lua">
@@ -111,10 +108,10 @@
     </configuration>
     <list>
       <item itemvalue="CMake Application.Z_DUMMY_TARGET" />
-      <item itemvalue="Lua Application.test.lua" />
       <item itemvalue="Lua Application.single_leg(v-rep).lua" />
       <item itemvalue="PlatformIO.PlatformIO Debug" />
       <item itemvalue="PlatformIO.PlatformIO Upload" />
+      <item itemvalue="Lua Application.test.lua" />
     </list>
     <recent_temporary>
       <list>
@@ -174,6 +171,7 @@
       <workItem from="1612190777960" duration="627000" />
       <workItem from="1612228792833" duration="6933000" />
       <workItem from="1612350601072" duration="1494000" />
+      <workItem from="1612512928967" duration="149000" />
     </task>
     <task id="LOCAL-00001" summary="add build files">
       <created>1611926629582</created>
@@ -203,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612075869290</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add v-rep scene “single_gain”">
+      <created>1612513078942</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612513078942</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,7 +231,8 @@
     <MESSAGE value="add lua file for simulation" />
     <MESSAGE value="add gait function in simulation" />
     <MESSAGE value="add gait simulation files of matlab" />
-    <option name="LAST_COMMIT_MESSAGE" value="add gait simulation files of matlab" />
+    <MESSAGE value="add v-rep scene “single_gain”" />
+    <option name="LAST_COMMIT_MESSAGE" value="add v-rep scene “single_gain”" />
   </component>
   <component name="WindowStateProjectService">
     <state x="299" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612247887741">
