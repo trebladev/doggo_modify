@@ -7,7 +7,7 @@
 float start_time_ = 0.0f;
 
 /**
- * Tell the position control thread to do the jump
+ * 通知控制线程开始跳跃
  * @param start_time_s The timestamp of when the jump command was sent
  */
 void StartJump(float start_time_s) {
@@ -16,8 +16,14 @@ void StartJump(float start_time_s) {
 }
 
 /**
-* Linear increase in height for jump.
-*/
+ * 线性增加跳跃的高度
+ * @param t
+ * @param launchTime
+ * @param stanceHeight
+ * @param downAMP
+ * @param x
+ * @param y
+ */
 void TrajectoryJump(float t, float launchTime, float stanceHeight,
     float downAMP, float& x, float& y) {
     //Need to check if n works
@@ -33,15 +39,15 @@ void TrajectoryJump(float t, float launchTime, float stanceHeight,
 void ExecuteJump() {
     // min radius = 0.8
     // max radius = 0.25
-    const float prep_time = 0.5f; // Duration before jumping [s]
-    const float launch_time = 0.8f ; // Duration before retracting the leg [s]
-    const float fall_time = 1.0f; //Duration after retracting leg to go back to normal behavior [s]
+    const float prep_time = 0.5f; // 跳跃之前的时间 [s]
+    const float launch_time = 0.8f ; // 收起腿之前的时间 [s]
+    const float fall_time = 1.0f; //收起腿之后回到正常动作的时间 [s]
 
-    const float stance_height = 0.081f; // Desired leg extension before the jump [m]
-    const float jump_extension = 0.249f; // Maximum leg extension in [m]
-    const float fall_extension = 0.13f; // Desired leg extension during fall [m]
+    const float stance_height = 0.081f; // 跳跃之前所需要的腿部延伸 [m]
+    const float jump_extension = 0.249f; // 最大的腿部延伸 [m]
+    const float fall_extension = 0.13f; // 下落时的腿部延伸 [m]
 
-    float t = millis()/1000.0f - start_time_; // Seconds since jump was commanded
+    float t = millis()/1000.0f - start_time_; // 跳跃信息发出之后的秒数
 
     if (t < prep_time) {
         float x = 0;
@@ -49,7 +55,7 @@ void ExecuteJump() {
         float theta,gamma;
         CartesianToThetaGamma(x, y, 1.0, theta, gamma);
 
-        // Use gains with small stiffness and lots of damping
+        // 使用低强度和高阻尼的增益设置
         struct LegGain gains = {50, 1.0, 50, 1.0};
         CommandAllLegs(theta,gamma,gains);
         // Serial << "Prep: +" << t << "s, y: " << y;
@@ -59,7 +65,7 @@ void ExecuteJump() {
         float theta, gamma;
         CartesianToThetaGamma(x, y, 1.0, theta, gamma);
 
-        // Use high stiffness and low damping to execute the jump
+        // 用高强度和低阻尼来执行跳跃
         struct LegGain gains = {240, 0.5, 240, 0.2};
         CommandAllLegs(theta, gamma, gains);
         // Serial << "Jump: +" << t << "s, y: " << y;
@@ -69,7 +75,7 @@ void ExecuteJump() {
         float theta,gamma;
         CartesianToThetaGamma(x, y, 1.0, theta, gamma);
 
-        // Use low stiffness and lots of damping to handle the fall
+        // 用低强度和高阻尼来处理跌落
         struct LegGain gains = {50, 1.0, 50, 1.0};
 
         CommandAllLegs(theta, gamma, gains);

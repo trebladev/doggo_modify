@@ -31,7 +31,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ce76e16-552f-4776-b989-3aa3be6fbc86" name="Default Changelist" comment="add v-rep scene “single_gain”" />
+    <list default="true" id="7ce76e16-552f-4776-b989-3aa3be6fbc86" name="Default Changelist" comment="add v-rep scene “single_gain”">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/TerrorBlade.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/.sconsign38.dblite" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/teensy35/.sconsign38.dblite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/firmware.elf" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/teensy35/firmware.elf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/teensy35/firmware.hex" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/teensy35/firmware.hex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jump.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/jump.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +47,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:teensy35" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -68,8 +76,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/simulation/matlab" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -80,7 +88,7 @@
       <recent name="D:\github\doggo_modify\simulation\matlab" />
     </key>
   </component>
-  <component name="RunManager" selected="Lua Application.test.lua">
+  <component name="RunManager" selected="PlatformIO.PlatformIO Upload">
     <configuration name="Z_DUMMY_TARGET" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Doggo" TARGET_NAME="Z_DUMMY_TARGET" CONFIG_NAME="teensy35" RUN_TARGET_PROJECT_NAME="Doggo" RUN_TARGET_NAME="Z_DUMMY_TARGET">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -108,10 +116,10 @@
     </configuration>
     <list>
       <item itemvalue="CMake Application.Z_DUMMY_TARGET" />
+      <item itemvalue="Lua Application.test.lua" />
       <item itemvalue="Lua Application.single_leg(v-rep).lua" />
       <item itemvalue="PlatformIO.PlatformIO Debug" />
       <item itemvalue="PlatformIO.PlatformIO Upload" />
-      <item itemvalue="Lua Application.test.lua" />
     </list>
     <recent_temporary>
       <list>
@@ -172,6 +180,16 @@
       <workItem from="1612228792833" duration="6933000" />
       <workItem from="1612350601072" duration="1494000" />
       <workItem from="1612512928967" duration="149000" />
+      <workItem from="1612513139592" duration="86000" />
+      <workItem from="1612671177869" duration="6282000" />
+      <workItem from="1612791327243" duration="63000" />
+      <workItem from="1613208843602" duration="1301000" />
+      <workItem from="1613357703004" duration="1968000" />
+      <workItem from="1613473028373" duration="906000" />
+      <workItem from="1613485186744" duration="1018000" />
+      <workItem from="1613535963849" duration="700000" />
+      <workItem from="1613564255102" duration="593000" />
+      <workItem from="1614922893835" duration="2863000" />
     </task>
     <task id="LOCAL-00001" summary="add build files">
       <created>1611926629582</created>
@@ -208,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612513078942</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add v-rep scene “single_gain”">
+      <created>1612513152516</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612513152516</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,10 +268,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="691" y="382" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1612075940952" />
-    <state x="740" y="303" key="FileChooserDialogImpl" timestamp="1611990643960">
+    <state x="740" y="303" key="FileChooserDialogImpl" timestamp="1612791390701">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="740" y="303" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1611990643960" />
+    <state x="740" y="303" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1612791390701" />
     <state width="1875" height="294" key="GridCell.Tab.0.bottom" timestamp="1612277214683">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -299,10 +324,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1875" height="364" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1612009522689" />
-    <state x="461" y="200" key="SettingsEditor" timestamp="1612075912316">
+    <state x="461" y="200" key="SettingsEditor" timestamp="1612671826769">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="461" y="200" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1612075912316" />
+    <state x="461" y="200" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1612671826769" />
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2" timestamp="1612513161044">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1612513161044" />
     <state x="662" y="138" width="596" height="804" key="find.popup" timestamp="1608270038773">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
